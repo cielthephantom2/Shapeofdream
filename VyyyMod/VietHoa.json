@@ -37147,7 +37147,7 @@
     },
     "ACH_BARE_SKIN_SUPREMACY": {
       "name": "Trần Trụi Mà Can Trường",
-      "description": "Tiến vào Bạch Mộng RequiredCount lần mà không nhận hoặc ban phát bất kỳ lá chắn nào."
+      "description": "Tiến vào Bạch Mộng `RequiredCount` lần mà không nhận hoặc ban phát bất kỳ lá chắn nào."
     },
     "ACH_BFR_9000": {
       "name": "BFR 9000",
@@ -37191,7 +37191,7 @@
     },
     "ACH_EMPRESS_OF_PAIN": {
       "name": "Nữ Hoàng Thống Khổ",
-      "description": "Bị nguyền rủa tổng cộng RequiredCount lần tại Thế Giới 5 hoặc xa hơn."
+      "description": "Bị nguyền rủa tổng cộng `RequiredCount` lần tại Thế Giới 5 hoặc xa hơn."
     },
     "ACH_EMPTY_CANVAS": {
       "name": "Bức Họa Trống",
@@ -37475,7 +37475,7 @@
     },
     "ACH_WRIST_FRIENDLY_BUILD": {
       "name": "Lối Chơi Thân Thiện Với Cổ Tay",
-      "description": "Tiến vào Bạch Mộng với RequiredCount Ký Ức kích hoạt có thời gian hồi chiêu từ MinCooldownTime|time giây trở lên."
+      "description": "Tiến vào Bạch Mộng với `RequiredCount` Ký Ức kích hoạt có thời gian hồi chiêu từ MinCooldownTime|time giây trở lên."
     }
   },
   "curses": {
