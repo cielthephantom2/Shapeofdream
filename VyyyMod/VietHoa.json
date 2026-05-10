@@ -37359,7 +37359,7 @@
     },
     "ACH_PRAYER_FOR_THE_DREAMERS": {
       "name": "Lời Cầu Nguyện Cho Những Kẻ Mộng Mơ",
-      "description": "Tiến vào một địa điểm mới RequiredCount lần khi máu của ngươi ở mức hoặc thấp hơn HealthThreshold|percent*100 trong một lần chạy."
+      "description": "Tiến vào một địa điểm mới `RequiredCount` lần khi máu của ngươi ở mức hoặc thấp hơn `HealthThreshold|percent*100` trong một lần chạy."
     },
     "ACH_PURE_IMAGINATION": {
       "name": "Huyễn Tưởng Thuần Khiết",
@@ -37480,7 +37480,7 @@
   },
   "curses": {
     "AmplifiedPain": {
-      "name": "Amplified Pain",
+      "name": "Cực Hạn Đớn Đau",
       "description": [
         {
           "type": 0,
@@ -37535,7 +37535,7 @@
       ]
     },
     "AnchorOfMind": {
-      "name": "Anchor of the Mind",
+      "name": "Gông Cùm Tâm Trí",
       "description": [
         {
           "type": 0,
@@ -37571,7 +37571,7 @@
       ]
     },
     "BlissOfIgnorance": {
-      "name": "Bliss of Ignorance",
+      "name": "Đặc Ân Vô Tri",
       "description": [
         {
           "type": 0,
@@ -37588,7 +37588,7 @@
       ]
     },
     "BrainFog": {
-      "name": "Brain Fog",
+      "name": "Hỗn Mang Nhận Thức",
       "description": [
         {
           "type": 0,
@@ -37681,7 +37681,7 @@
       ]
     },
     "DarkUrge": {
-      "name": "Dark Urge",
+      "name": "Thôi Thúc Hắc Ám",
       "description": [
         {
           "type": 0,
@@ -37717,7 +37717,7 @@
       ]
     },
     "DreamAfflictionHallucinatory": {
-      "name": "Dream Affliction: Hallucinatory",
+      "name": "Mộng Yểm: Huyễn Cảnh",
       "description": [
         {
           "type": 0,
@@ -37753,7 +37753,7 @@
       ]
     },
     "DreamAfflictionInductive": {
-      "name": "Dream Affliction: Inductive",
+      "name": "Mộng Yểm: Dẫn Hồn",
       "description": [
         {
           "type": 0,
@@ -37789,7 +37789,7 @@
       ]
     },
     "DreamAfflictionParalytic": {
-      "name": "Dream Affliction: Paralytic",
+      "name": "Mộng Yểm: Bại Liệt",
       "description": [
         {
           "type": 0,
@@ -37806,7 +37806,7 @@
       ]
     },
     "Electrified": {
-      "name": "Electrified",
+      "name": "Tích Lôi",
       "description": [
         {
           "type": 0,
@@ -37842,7 +37842,7 @@
       ]
     },
     "EternalLoop": {
-      "name": "Eternal Loop",
+      "name": "Luân Hồi Bất Tận",
       "description": [
         {
           "type": 0,
@@ -37859,7 +37859,7 @@
       ]
     },
     "FaintMemory": {
-      "name": "Faint Memory",
+      "name": "Tàn Ảnh Ký Ức",
       "description": [
         {
           "type": 0,
@@ -37914,7 +37914,7 @@
       ]
     },
     "FateOfGreed": {
-      "name": "Fate of Greed",
+      "name": "Nghiệp Chướng Tham Lam",
       "description": [
         {
           "type": 0,
@@ -37950,7 +37950,7 @@
       ]
     },
     "Fragility": {
-      "name": "Fragile",
+      "name": "Thể Phách Yếu Nhược",
       "description": [
         {
           "type": 0,
@@ -37986,7 +37986,7 @@
       ]
     },
     "FragmentedBeing": {
-      "name": "Shaken Resolve",
+      "name": "Ý Chí Băng Hoại",
       "description": [
         {
           "type": 0,
@@ -38022,7 +38022,7 @@
       ]
     },
     "IntermittentExplosion": {
-      "name": "Intermittent Explosion",
+      "name": "Bộc Phát Dư Chấn",
       "description": [
         {
           "type": 0,
@@ -38058,7 +38058,7 @@
       ]
     },
     "Lethargy": {
-      "name": "Lethargy",
+      "name": "Hôn Trầm",
       "description": [
         {
           "type": 0,
@@ -38094,7 +38094,7 @@
       ]
     },
     "LossOfIdentity": {
-      "name": "Loss of Self",
+      "name": "Tan Biến Bản Ngã",
       "description": [
         {
           "type": 0,
@@ -38111,7 +38111,7 @@
       ]
     },
     "SilentNight": {
-      "name": "Silent Night",
+      "name": "Tịch Dạ Câm Lặng",
       "description": [
         {
           "type": 0,
@@ -38147,7 +38147,7 @@
       ]
     },
     "SoftSkin": {
-      "name": "Soft Skin",
+      "name": "Nhục Thể Mỏng Manh",
       "description": [
         {
           "type": 0,
@@ -38164,7 +38164,7 @@
       ]
     },
     "Somnambulism": {
-      "name": "Somnambulism",
+      "name": "Mộng Hành",
       "description": [
         {
           "type": 0,
@@ -38181,7 +38181,7 @@
       ]
     },
     "UnstableEnergy": {
-      "name": "Unstable Power",
+      "name": "Quyền Năng Bạo Loạn",
       "description": [
         {
           "type": 0,
@@ -38217,7 +38217,7 @@
       ]
     },
     "VainDream": {
-      "name": "Vain Dream",
+      "name": "Ảo Mộng Hư Vô",
       "description": [
         {
           "type": 0,
