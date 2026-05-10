@@ -1,0 +1,12 @@
+{
+  "id": "com.vyyy.mod",
+  "name": "VyyyMod",
+  "author": "Vyyy",
+  "modVer": "1.0",
+  "supportedGameVer": [
+    "*"
+  ],
+  "assemblies": [
+    "VyyyMod.dll"
+  ]
+}
