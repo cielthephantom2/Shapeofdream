@@ -37475,7 +37475,7 @@
     },
     "ACH_WRIST_FRIENDLY_BUILD": {
       "name": "Lối Chơi Thân Thiện Với Cổ Tay",
-      "description": "Tiến vào Bạch Mộng với `RequiredCount` Ký Ức kích hoạt có thời gian hồi chiêu từ MinCooldownTime|time giây trở lên."
+      "description": "Tiến vào Bạch Mộng với `RequiredCount` Ký Ức kích hoạt có thời gian hồi chiêu từ `MinCooldownTime|time` giây trở lên."
     }
   },
   "curses": {
