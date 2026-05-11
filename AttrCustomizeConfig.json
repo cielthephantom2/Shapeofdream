@@ -27,6 +27,7 @@
   "bossMirageChance": 0.0,
   "enableWorldReveal": true,
   "enableCurrentNodeGenerateLostSoul": false,
+  "enableDamageRanking": true,
   "bossHunterChance": 0.0,
   "bossSingleInjuryHealthMultiplier": 1.0,
   "enableGemMerge": true,
