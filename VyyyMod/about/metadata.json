@@ -8,6 +8,8 @@
   ],
   "assemblies": [
   "VyyyMod.dll",
-  "VyyyDifficultyCustomizeMod.dll"
+  "VyyyDifficultyCustomizeMod.dll",
+  "DewBootcamp.dll"
+  
   ]
 }
