@@ -25,7 +25,7 @@
   "maxAndSpawnedPopulationMultiplier": 1.5,
   "enableBossSpawnAllOnce": false,
   "bossMirageChance": 0.0,
-  "enableWorldReveal": true,
+  "enableWorldReveal": false,
   "enableCurrentNodeGenerateLostSoul": false,
   "enableDamageRanking": true,
   "bossHunterChance": 0.0,
