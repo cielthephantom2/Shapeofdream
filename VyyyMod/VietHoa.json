@@ -872,13 +872,13 @@
     "InGame_Tooltip_Essence": "khác",
     "InGame_Tooltip_ExperienceAndLevel_Description": "Tất cả chỉ số đều tăng lên mỗi khi Lữ Khách thăng cấp.",
     "InGame_Tooltip_ExperienceAndLevel_Title": "Cấp Độ và Kinh Nghiệm",
-    "InGame_Tooltip_GemName_Chipped": "Sứt Mẻ {0}",
-    "InGame_Tooltip_GemName_Flawed": "Khiếm Khuyết {0}",
-    "InGame_Tooltip_GemName_Flawless": "Ưu Việt {0}",
-    "InGame_Tooltip_GemName_Otherworldly": "Huyền Ảo {0}",
-    "InGame_Tooltip_GemName_Perfect": "Hoàn Hảo {0}",
-    "InGame_Tooltip_GemName_Regular": "Tinh Xảo {0}",
-    "InGame_Tooltip_GemName_Transcendent": "Siêu Việt {0}",
+	"InGame_Tooltip_GemName_Chipped": "<color=#9e9e9e>[Sứt Mẻ]</color> {0}",
+	"InGame_Tooltip_GemName_Flawed": "<color=#4caf50>[Khiếm Khuyết]</color> {0}",
+	"InGame_Tooltip_GemName_Regular": "<color=#42a5f5>[Tinh Xảo]</color> {0}",
+	"InGame_Tooltip_GemName_Flawless": "<color=#ba68c8>[Ưu Việt]</color> {0}",
+	"InGame_Tooltip_GemName_Perfect": "<color=#ffb300>[Hoàn Hảo]</color> {0}",
+	"InGame_Tooltip_GemName_Otherworldly": "<color=#ff7043>[Huyền Ảo]</color> {0}",
+	"InGame_Tooltip_GemName_Transcendent": "<color=#ef5350>[Siêu Việt]</color> {0}",
     "InGame_Tooltip_GemQuality": "Phẩm Cấp",
     "InGame_Tooltip_Gold_Description": "Loại tiền tệ chính được sử dụng tại Mộng Khê.",
     "InGame_Tooltip_Health_Description": "Khi Sinh Lực của một Lữ Khách về 0, bọn họ sẽ bị hạ gục. Nếu tất cả Lữ Khách đều bị hạ gục, ngươi sẽ thua cuộc.",
@@ -1700,7 +1700,7 @@
     "RoomMod_SpawnDestiny_Tooltip": "Tàn tích của Định mệnh đang ở đây.",
     "RoomMod_SpawnDisintegration_Tooltip": "Một Miếu Thờ Phân Giải đang hiện hữu tại chốn này.",
     "RoomMod_SpawnEntanglement_Tooltip": "Ngươi có thể nghe thấy những Âm Vọng đang rối bời tại chốn này.",
-    "RoomMod_SpawnGuidance_Tooltip": "Một Miếu Thờ Dẫn Lối đang hiện hữu tại chốn này.",
+    "RoomMod_SpawnGuidance_Tooltip": "Một Thánh Tích dẫn lối đang hiện hữu tại chốn này.",
     "RoomMod_SpawnHatred_Tooltip": "Lòng Cừu Hận của một ai đó đang lan tỏa khắp chốn này.",
     "RoomMod_SpawnHiddenStash_Tooltip": "Một Báu Vật Ẩn Giấu đang nằm tại nơi đây.",
     "RoomMod_SpawnMawOfDoom_Tooltip": "Quyền năng Diệt Vong đang thấm đẫm chốn này.",
@@ -37243,7 +37243,7 @@
     },
     "ACH_HOTTER_FIRE_WINS": {
       "name": "Lửa Càng Nóng Càng Thắng",
-      "description": "Đánh bại Khổng Lồ Rực Lửa khi chơi Vesper và đang nắm giữ từ RequiredFireSkills Ký Ức Lửa trở lên."
+      "description": "Đánh bại Khổng Lồ Rực Lửa khi chơi Vesper và đang nắm giữ từ `RequiredFireSkills` Ký Ức Lửa trở lên."
     },
     "ACH_HUNTERS_WHAT_HUNTERS": {
       "name": "Thợ Săn ư？ Nào có Thợ Săn？",
