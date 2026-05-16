@@ -498,7 +498,7 @@
     "Guide_OverCrits": "Tỷ Lệ Chí Mạng Dư Thừa",
     "Guide_OverCrits_0": "Nếu [Critical Strike Chance] vượt quá 100%, các đòn đánh cơ bản của Lữ khách sẽ luôn là Đòn chí mạng và cũng có cơ hội gây thêm Sát thương bổ sung lớn hơn nữa.\nVí dụ, với 120% [Critical Strike Chance], có 20% cơ hội gây Sát thương gấp ba và 80% cơ hội gây Sát thương gấp đôi. Với 220% [Critical Strike Chance], có 20% cơ hội gây Sát thương gấp bốn và 80% cơ hội gây Sát thương gấp ba.",
     "Guide_PingsAndEmotes": "Ping và Biểu Cảm",
-    "Guide_PingsAndEmotes_0": "Ngươi có thể sử dụng [Ping](`ping`) lên Yêu thú, Ký ức, Tinh hoa và nhiều thứ khác để cảnh báo đồng đội.\nNhấn giữ nút [Emote](`emote`) để mở vòng tròn biểu cảm, sau đó di chuột qua biểu cảm mong muốn và nhả ra để biểu đạt tâm trạng hiện tại của ngươi.\n\nTrên tay cầm chơi game, chạm nút chức năng đã gán để Ping hoặc giữ nút để sử dụng biểu cảm.",
+    "Guide_PingsAndEmotes_0": "Ngươi có thể sử dụng [Ping](`ping`) lên Yêu thú, Ký ức, Ngọc và nhiều thứ khác để cảnh báo đồng đội.\nNhấn giữ nút [Emote](`emote`) để mở vòng tròn biểu cảm, sau đó di chuột qua biểu cảm mong muốn và nhả ra để biểu đạt tâm trạng hiện tại của ngươi.\n\nTrên tay cầm chơi game, chạm nút chức năng đã gán để Ping hoặc giữ nút để sử dụng biểu cảm.",
     "Guide_Potions": "Bình Sinh lực",
     "Guide_Potions_0": "Khi ngươi đánh bại các kẻ thù, chúng có 2.5% cơ hội rơi ra Dược Sinh Lực. Khi được thu thập, toàn bộ Lữ Khách lân cận sẽ hồi phục một lượng nhỏ Sinh Lực.\n\nTỷ lệ rơi Dược Sinh Lực tăng lên khi Sinh Lực của Lữ Khách giảm xuống, tối đa 5%. Các Thủ Lĩnh Anh Dũng và Tiểu Thủ Lĩnh chắc chắn sẽ rơi Dược Sinh Lực.",
     "Guide_Rift": "Vết Nứt",
@@ -509,10 +509,10 @@
     "Guide_Skill_0": "[Memories] là những hồi ức ma thuật có thể được sử dụng trong chiến đấu tại The Rapids. Ngươi có thể trang bị, tháo bỏ hoặc hoán đổi Hồi Ức bất kể lúc nào khi đang ở The Rapids.",
     "Guide_Ultimates": "Tuyệt kỹ",
     "Guide_Ultimates_0": "[Ultimate Memories] không có thời gian hồi chiêu tiêu chuẩn và chỉ có thể được sử dụng khi năng lượng tích lũy đạt 100%. Năng lượng của Ký Ức Tối Thượng tích lũy mỗi khi Lữ Khách gây hoặc nhận Sát thương, và tốc độ này bị ảnh hưởng bởi Tăng Tốc Ký Ức.\nCác hiệu ứng giảm thời gian hồi chiêu áp dụng cho Ký Ức Tối Thượng được quy đổi theo tỷ lệ 1 giây thành 1%.",
-    "Guide_UniqueMemoriesAndEssences": "Ký Ức Độc Đáo và Tinh Hoa",
-    "Guide_UniqueMemoriesAndEssences_0": "Bằng cách đánh bại [Heroic Bosses] và đoạt lấy linh hồn của chúng, ngươi đôi khi có thể đoạt được những Ký Ức hoặc Tinh Hoa không thể có được bằng bất kỳ phương tiện nào khác.",
+    "Guide_UniqueMemoriesAndEssences": "Ký Ức Độc Đáo và Ngọc",
+    "Guide_UniqueMemoriesAndEssences_0": "Bằng cách đánh bại [Heroic Bosses] và đoạt lấy linh hồn của chúng, ngươi đôi khi có thể đoạt được những Ký Ức hoặc Ngọc không thể có được bằng bất kỳ phương tiện nào khác.",
     "Guide_Well": "Thôi được.",
-    "Guide_Well_0": "Tại [Well], ngươi có thể dùng Mộng Trần để Cường hóa Ký Ức hoặc Tinh Hoa. Việc Cường hóa sẽ gia tăng Cấp độ Ký Ức và nâng cao Phẩm chất Tinh Hoa, khiến chúng trở nên quyền năng hơn.",
+    "Guide_Well_0": "Tại [Well], ngươi có thể dùng Mộng Trần để Cường hóa Ký Ức hoặc Ngọc. Việc Cường hóa sẽ gia tăng Cấp độ Ký Ức và nâng cao Phẩm chất Ngọc, khiến chúng trở nên quyền năng hơn.",
     "HeroClass_MeleeAttacker": "Cận Chiến Công Kích Giả",
     "HeroClass_MeleeMage": "Cận Chiến Pháp Sư",
     "HeroClass_MeleeSupport": "Cận Chiến Hỗ Trợ",
@@ -576,7 +576,7 @@
     "InGame_Chaos_MaxHealth": "Ý Chí Bất Diệt",
     "InGame_Chaos_MaxHealth_Description": "Tăng Sinh Lực Tối Đa thêm {0}.",
     "InGame_Chaos_UpgradeGem": "Hoài Mộng",
-    "InGame_Chaos_UpgradeGem_Description": "Tăng chất lượng Tinh Hoa thêm {0}.",
+    "InGame_Chaos_UpgradeGem_Description": "Tăng chất lượng Ngọc thêm {0}.",
     "InGame_Chaos_UpgradeSkill": "Khứ Hồi Vãng Tích",
     "InGame_Chaos_UpgradeSkill_Description": "Tăng Cấp Độ Hồi Ức thêm {0}.",
     "InGame_Chaos_YouReachOutIntoTheChaos": "Ngươi vươn tay vào hỗn mang…",
@@ -692,9 +692,9 @@
     "InGame_Message_DoYouWishToContinue": "Ngươi có nguyện ý tiếp tục？",
     "InGame_Message_DreamAgain": "Ngươi có muốn mộng lại lần nữa？",
     "InGame_Message_EndYourJourney": "Ngươi có nguyện ý kết thúc hành trình？",
-    "InGame_Message_GemQualityTooLow": "Phẩm chất Tinh Hoa quá thấp.",
-    "InGame_Message_GemSlotFull": "Khảm Tinh Hoa đã đầy.",
-    "InGame_Message_HasEssenceOnGround": "Vẫn còn Tinh Hoa chưa thu lượm trên mặt đất.",
+    "InGame_Message_GemQualityTooLow": "Phẩm chất Ngọc quá thấp.",
+    "InGame_Message_GemSlotFull": "Khảm Ngọc đã đầy.",
+    "InGame_Message_HasEssenceOnGround": "Vẫn còn Ngọc chưa thu lượm trên mặt đất.",
     "InGame_Message_HasMemoryOnGround": "Vẫn còn Ký Ức chưa thu lượm trên mặt đất.",
     "InGame_Message_HasOtherworldRiftOpen": "Một khe nứt dẫn đến Dị Giới đã khai mở.\nKhe nứt này sẽ tiêu biến nếu ngươi dịch chuyển đến địa điểm khác.",
     "InGame_Message_HoldToConfirmGeneric_Gamepad": "Giữ phím {0} để xác nhận.",
@@ -707,8 +707,8 @@
     "InGame_Message_NeedAllPlayersPresence": "Toàn bộ thành viên viễn chinh phải có mặt. ({0}/{1})",
     "InGame_Message_NeedsNearbyExitRift": "Ngươi chỉ có thể dịch chuyển khi ở gần Khe Nứt Xuất Lộ.",
     "InGame_Message_NeedsOpenExitRift": "Khe Nứt Xuất Lộ vẫn chưa khai mở.",
-    "InGame_Message_NoGemSlotOnSkill": "Ký Ức này không có Khảm Tinh Hoa.",
-    "InGame_Message_NoOtherGemToUpgrade": "Không còn Tinh Hoa nào để cường hóa.",
+    "InGame_Message_NoGemSlotOnSkill": "Ký Ức này không có Khảm Ngọc.",
+    "InGame_Message_NoOtherGemToUpgrade": "Không còn Ngọc nào để cường hóa.",
     "InGame_Message_NoWorldMapAvailable": "Thế giới này không có Địa Đồ khả dụng.",
     "InGame_Message_NotEnoughDreamDust": "Mộng Trần bất túc.",
     "InGame_Message_NotEnoughGold": "Hoàng Kim bất túc.",
@@ -716,7 +716,7 @@
     "InGame_Message_ReleaseTheRaven": "Ngươi có chắc muốn giải phóng con quạ bị phong ấn không?",
     "InGame_Message_ReturnToPreviousWorld": "Ngươi có muốn hồi quy đến mộng cảnh trước？",
     "InGame_Message_RiftCantHoldOntoItem": "Bất khả dịch chuyển khi đang mang vác vật gì đó: {0}",
-    "InGame_Message_RiftEssenceIsOnGround": "Tinh Hoa chưa thu lượm trên mặt đất: {0}",
+    "InGame_Message_RiftEssenceIsOnGround": "Ngọc chưa thu lượm trên mặt đất: {0}",
     "InGame_Message_RiftInConversation": "Bất khả dịch chuyển trong lúc đàm luận: {0}",
     "InGame_Message_RiftMemoryIsOnGround": "Ký Ức chưa thu lượm trên mặt đất: {0}",
     "InGame_Message_RiftMoveToNextLocation": "Ngươi có muốn dịch chuyển đến địa điểm kế tiếp？",
@@ -827,12 +827,12 @@
     "InGame_Result_totalStardustIncome": "Tinh Trần Thu Được",
     "InGame_Result_visitedLocations": "Địa Điểm Đã Ghé Thăm",
     "InGame_Result_visitedWorlds": "Thế Giới Đã Ghé Thăm",
-    "InGame_SelectGemToSell": "Chọn một Tinh Hoa để bán",
-    "InGame_SelectGemToUpgrade": "Chọn một Tinh Hoa để cường hóa",
+    "InGame_SelectGemToSell": "Chọn một Ngọc để bán",
+    "InGame_SelectGemToUpgrade": "Chọn một Ngọc để cường hóa",
     "InGame_SelectItemToCleanse": "Chọn một vật phẩm để tẩy uế",
     "InGame_SelectItemToSell": "Chọn một vật phẩm để bán",
     "InGame_SelectItemToUpgrade": "Chọn một vật phẩm để cường hóa",
-    "InGame_SelectSkillSlotToEquipGem": "Chọn một ô Ký Ức để trang bị Tinh Hoa",
+    "InGame_SelectSkillSlotToEquipGem": "Chọn một ô Ký Ức để trang bị Ngọc",
     "InGame_SelectSkillToReplace": "Chọn một Ký Ức để thay thế",
     "InGame_SelectSkillToSell": "Chọn một Ký Ức để bán",
     "InGame_SelectSkillToUpgrade": "Chọn một Ký Ức để cường hóa",
@@ -852,7 +852,7 @@
     "InGame_Tooltip_Artifact_Description": "Cổ vật này đã mất đi sức mạnh, nhưng có thể vẫn hữu ích với ai đó…",
     "InGame_Tooltip_AttackDamage_Description": "Sát thương gây ra từ các đòn tấn công cơ bản.",
     "InGame_Tooltip_AttackDamage_Title": "Sát thương Tấn Công",
-    "InGame_Tooltip_CharacterEssence": "Tinh Hoa Lữ Khách",
+    "InGame_Tooltip_CharacterEssence": "Ngọc Lữ Khách",
     "InGame_Tooltip_CharacterSkill": "Ký Ức Lữ Khách",
     "InGame_Tooltip_CommonChaos": "Hỗn Mang Thường",
     "InGame_Tooltip_CommonEssence": "Tinh túy Phổ biến",
@@ -860,8 +860,8 @@
     "InGame_Tooltip_Detail_HoldKeyToExpandDetails": "* Giữ {0} để xem mô tả chi tiết.",
     "InGame_Tooltip_Detail_UltimateSkill": "* [Ultimate] Ký Ức tích nạp khi ngươi gây hoặc nhận Sát thương. 1 giây giảm hồi chiêu sẽ chuyển thành 1% tích nạp Ký Ức Tối Thượng.",
     "InGame_Tooltip_DodgeAbility": "Né Tránh",
-    "InGame_Tooltip_DreamDust_Description": "Ngươi có thể dùng Mộng Trần tại Tuyền Năng để cường hóa Ký Ức và Tinh Hoa.",
-    "InGame_Tooltip_EmptyEssenceSlot": "Ô Tinh Hoa Trống",
+    "InGame_Tooltip_DreamDust_Description": "Ngươi có thể dùng Mộng Trần tại Tuyền Năng để cường hóa Ký Ức và Ngọc.",
+    "InGame_Tooltip_EmptyEssenceSlot": "Ô Ngọc Trống",
     "InGame_Tooltip_EmptySkillSlot": "Ô Ký Ức Trống",
     "InGame_Tooltip_EpicChaos": "Hỗn Mang Sử Thi",
     "InGame_Tooltip_EpicEssence": "Tinh túy Sử thi",
@@ -884,7 +884,7 @@
     "InGame_Tooltip_Health_Description": "Khi Sinh Lực của một Lữ Khách về 0, bọn họ sẽ bị hạ gục. Nếu tất cả Lữ Khách đều bị hạ gục, ngươi sẽ thua cuộc.",
     "InGame_Tooltip_Health_Title": "Sinh Lực",
     "InGame_Tooltip_HuntSafe_Description": "Các Kẻ Săn Mộng đang truy đuổi đoàn thám hiểm. Cuộc truy lùng của bọn chúng sẽ chậm lại trong các khu vực an toàn.",
-    "InGame_Tooltip_IdentityEssence": "Tinh Hoa Căn Tính",
+    "InGame_Tooltip_IdentityEssence": "Ngọc Căn Tính",
     "InGame_Tooltip_IdentitySkill": "Ký Ức Căn Tính",
     "InGame_Tooltip_Inventory_Confirm": "Xác Nhận",
     "InGame_Tooltip_Inventory_Move": "Di Chuyển",
@@ -913,7 +913,7 @@
     "InGame_Tooltip_Rarity_Rare": "Hiếm",
     "InGame_Tooltip_Rarity_Unique": "Độc Nhất",
     "InGame_Tooltip_Replace": "Thay Thế",
-    "InGame_Tooltip_SelectGemToUpgrade": "Chọn Tinh Hoa để Cường Hóa",
+    "InGame_Tooltip_SelectGemToUpgrade": "Chọn Ngọc để Cường Hóa",
     "InGame_Tooltip_SelectSkillToUpgrade": "Chọn Ký Ức để Cường Hóa",
     "InGame_Tooltip_ShowDetails": "Hiển Thị Chi Tiết",
     "InGame_Tooltip_Skill": "Ký Ức",
@@ -922,7 +922,7 @@
     "InGame_Tooltip_Stardust_Description": "Ngươi có thể dùng vật này để mua vật phẩm đặc biệt hoặc để mở khóa và cường hóa tinh tú.",
     "InGame_Tooltip_ThreatLevel_Description": "Cấp Độ Nguy Hiểm đang tăng cao.\nKhi Cấp Độ tăng, yêu quái ở màn này sẽ trở nên mạnh hơn và nguy hiểm hơn.",
     "InGame_Tooltip_Ultimate": "Tuyệt Kỹ (Tích Lũy)",
-    "InGame_Tooltip_UniqueEssence": "Tinh Hoa Độc Nhất",
+    "InGame_Tooltip_UniqueEssence": "Ngọc Độc Nhất",
     "InGame_Tooltip_UniqueSkill": "Ký Ức Độc Nhất",
     "InGame_Tooltip_WorldNode_AlreadyVisited": "(Đã Từng Ghé Thăm)",
     "InGame_Tooltip_WorldNode_ExitBoss": "Lối ra này dẫn đến các tầng sâu hơn.",
@@ -988,12 +988,12 @@
     "Limbo_DepthTemplate": "Độ Sâu {0}",
     "Limbo_NeedToCompletePreviousDepth": "Ngươi phải hoàn thành Độ Sâu trước đó.",
     "Limbo_NeedToEnableEvilLucidDreams": "Ngươi phải kích hoạt số lượng Giấc Mơ Tỉnh Thức Tà Ác bằng với Độ Sâu hiện tại.",
-    "Limbo_Penalty_Depth0": "Với mỗi màn, quái vật không phải trùm nhận thêm +atkMovSpdPerDepth|percent Tốc Độ Đánh và Tốc Độ Di Chuyển.\n(Cộng dồn tối đa atkMovSpdPerDepthMax|percent.)",
-    "Limbo_Penalty_Depth1": "Điểm Hồi Ký Ức Quái Vật +d1SkillHaste, Tốc Độ Truy Đuổi Thợ Săn +d1HuntSpeedAmp|percent*100",
-    "Limbo_Penalty_Depth2": "Sát thương Quái Vật +d2DamageAmp|percent*100, Giáp +d2Armor",
-    "Limbo_Penalty_Depth3": "Giá Vàng +d3GoldPriceAmp|percent*100, Kinh Nghiệm Nhận Được -d3ExpReduction|percent*100, Lá Chắn Nhận Được -d3ShieldReduction|percent*100",
-    "Limbo_Penalty_Depth4": "Tỷ Lệ Ảo Bì +d4MirageSkinChance|percent*100, Thời gian hiệu ứng nguyên tố lên Lữ Khách +d4ElementalDurationAmp|percent*100",
-    "Limbo_Penalty_Depth5": "Tốc Độ Đánh Của Trùm +d5BossAtkSpd|percent, Tốc Độ Di Chuyển +d5BossMovSpd|percent",
+    "Limbo_Penalty_Depth0": "Với mỗi màn, quái vật không phải trùm nhận thêm +`atkMovSpdPerDepth|percent` Tốc Độ Đánh và Tốc Độ Di Chuyển.\n(Cộng dồn tối đa `atkMovSpdPerDepthMax|percent`.)",
+    "Limbo_Penalty_Depth1": "Điểm Hồi Ký Ức Quái Vật +`d1SkillHaste`, Tốc Độ Truy Đuổi Thợ Săn +`d1HuntSpeedAmp|percent*100`",
+    "Limbo_Penalty_Depth2": "Sát thương Quái Vật +`d2DamageAmp|percent*100`, Giáp +`d2Armor`",
+    "Limbo_Penalty_Depth3": "Giá Vàng +`d3GoldPriceAmp|percent*100`, Kinh Nghiệm Nhận Được -`d3ExpReduction|percent*100`, Lá Chắn Nhận Được -`d3ShieldReduction|percent*100`",
+    "Limbo_Penalty_Depth4": "Tỷ Lệ Ảo Bì +`d4MirageSkinChance|percent*100`, Thời gian hiệu ứng nguyên tố lên Lữ Khách +`d4ElementalDurationAmp|percent*100`",
+    "Limbo_Penalty_Depth5": "Tốc Độ Đánh Của Trùm +`d5BossAtkSpd|percent`, Tốc Độ Di Chuyển +`d5BossMovSpd|percent`",
     "Limbo_Penalty_Depth6": "Tất cả trùm áp dụng hiệu ứng Ảo Giác lên Lữ Khách.",
     "Limbo_Reward_Depth2": "<color=#e0e0e0>Mở khóa Tên Lữ Khách Bạc khi hoàn thành.</color>",
     "Limbo_Reward_Depth4": "<color=#ffe45e>Mở khóa Tên Lữ Khách Vàng khi hoàn thành.</color>",
@@ -1335,8 +1335,8 @@
     "Obliteration_BuyAdditionalSlotConfirmation": "Mua một ô Tận Diệt với giá {0} Bụi Sao? Ngươi có thể có tối đa {1} ô.",
     "Obliteration_ClearSelection": "Bỏ Chọn Tất Cả",
     "Obliteration_ClearSelectionConfirmation": "Bỏ chọn tất cả vật phẩm?",
-    "Obliteration_Dejavu_EssenceObliterated": "Tinh Hoa này đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu.",
-    "Obliteration_Dejavu_EssenceObliterated_StartGameConfirm": "Tinh Hoa hiện được chọn cho Déjà Vu đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu. Ngươi có muốn tiếp tục không?",
+    "Obliteration_Dejavu_EssenceObliterated": "Ngọc này đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu.",
+    "Obliteration_Dejavu_EssenceObliterated_StartGameConfirm": "Ngọc hiện được chọn cho Déjà Vu đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu. Ngươi có muốn tiếp tục không?",
     "Obliteration_Dejavu_MemoryObliterated": "Ký Ức này đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu.",
     "Obliteration_Dejavu_MemoryObliterated_StartGameConfirm": "Ký Ức hiện được chọn cho Déjà Vu đã bị tận diệt và loại bỏ khỏi lần chạy này. Déjà Vu sẽ không kích hoạt ngay cả khi ngươi bắt đầu cuộc phiêu lưu. Ngươi có muốn tiếp tục không?",
     "Obliteration_Description": "Chọn các vật phẩm để loại trừ khỏi cuộc phiêu lưu này.",
@@ -1386,8 +1386,8 @@
     "PlayTutorial_CharacterSkills_Description1": "Ký Ức Lữ Khách có thể được thi triển bằng cách nhấn các phím phía trên.",
     "PlayTutorial_CharacterSkills_Description2": "Ký Ức Bản Ngã không thể thi triển nhưng cung cấp hiệu ứng bị động.",
     "PlayTutorial_Dismantle": "Phân Giải",
-    "PlayTutorial_Dismantle_Description0": "Ký Ức hoặc Tinh Hoa không mong muốn có thể được bỏ đi và phân giải.",
-    "PlayTutorial_Dismantle_Description1": "Điều này sẽ mang lại cho ngươi Mộng Trần, mà ngươi có thể dùng để nâng cấp Ký Ức và Tinh Hoa của ngươi.",
+    "PlayTutorial_Dismantle_Description0": "Ký Ức hoặc Ngọc không mong muốn có thể được bỏ đi và phân giải.",
+    "PlayTutorial_Dismantle_Description1": "Điều này sẽ mang lại cho ngươi Mộng Trần, mà ngươi có thể dùng để nâng cấp Ký Ức và Ngọc của ngươi.",
     "PlayTutorial_Dismantle_Dismantle": "Nhấn {0} để Phân Giải.",
     "PlayTutorial_Dismantle_DragOutToDiscard": "Hãy kéo Ký Ức [Sneeze] ra để loại bỏ.",
     "PlayTutorial_Dismantle_Gamepad_Discard": "Loại bỏ Ký Ức [Sneeze] bằng cách ấn phím {0}.",
@@ -1401,22 +1401,22 @@
     "PlayTutorial_EditSkill_CloseMemoryEdit_Gamepad": "Ấn phím {0} để thoát khỏi Chế độ [Memory Edit].",
     "PlayTutorial_EditSkill_CloseMemoryEdit_PC": "Thả phím {0} để thoát khỏi Chế độ [Memory Edit].",
     "PlayTutorial_EditSkill_Description0": "Giữ Phím Hiệu Chỉnh Ký Ức để tiến nhập Chế độ Hiệu Chỉnh.",
-    "PlayTutorial_EditSkill_Description1": "Trong chế độ này, ngươi có thể tùy ý kéo Ký Ức hay Tinh Hoa đi khắp nơi để sắp xếp lại hoặc loại bỏ chúng.",
+    "PlayTutorial_EditSkill_Description1": "Trong chế độ này, ngươi có thể tùy ý kéo Ký Ức hay Ngọc đi khắp nơi để sắp xếp lại hoặc loại bỏ chúng.",
     "PlayTutorial_EditSkill_DescriptionGamepad0": "Ấn nút điều hướng Lên để tiến nhập Chế độ Hiệu Chỉnh.",
-    "PlayTutorial_EditSkill_DescriptionGamepad1": "Trong chế độ này, ngươi có thể sắp xếp lại hoặc loại bỏ Ký Ức hay Tinh Hoa.",
-    "PlayTutorial_EditSkill_MoveAroundSkillsOrEssences": "Ngươi hãy thử di chuyển Ký Ức hay Tinh Hoa đi khắp nơi xem sao.",
+    "PlayTutorial_EditSkill_DescriptionGamepad1": "Trong chế độ này, ngươi có thể sắp xếp lại hoặc loại bỏ Ký Ức hay Ngọc.",
+    "PlayTutorial_EditSkill_MoveAroundSkillsOrEssences": "Ngươi hãy thử di chuyển Ký Ức hay Ngọc đi khắp nơi xem sao.",
     "PlayTutorial_EndTutorial": "Kết Thúc Hướng Dẫn Nhập Môn",
     "PlayTutorial_EnterRiftOrEnd": "Ngươi có thể kết thúc Hướng Dẫn Nhập Môn bằng cách nhấn nút bên dưới, hoặc lập tức tham chiến bằng cách xuyên qua Hư Không.",
     "PlayTutorial_Essence": "khác",
-    "PlayTutorial_EssenceCombination": "Phối Hợp Tinh Hoa",
-    "PlayTutorial_EssenceCombination_Description0": "Các Tinh Hoa được trang bị cho cùng một Ký Ức có thể kích hoạt lẫn nhau.",
-    "PlayTutorial_EssenceCombination_Description1": "Việc nắm vững Phối Hợp Tinh Hoa là tối quan trọng để ngươi sống sót tại Thác Mộng.",
-    "PlayTutorial_Essence_Description": "Ngươi có thể trang bị Tinh Hoa cho Ký Ức để ban cho chúng những hiệu ứng đặc biệt.",
-    "PlayTutorial_Essence_Description0": "Tinh Hoa là những vật thể chứa đựng sức mạnh của các Khái Niệm cụ thể.",
-    "PlayTutorial_Essence_Description1": "Tinh Hoa ban cho Ký Ức được trang bị những hiệu ứng đặc biệt, và một Ký Ức có thể trang bị tối đa ba Tinh Hoa.",
+    "PlayTutorial_EssenceCombination": "Phối Hợp Ngọc",
+    "PlayTutorial_EssenceCombination_Description0": "Các Ngọc được trang bị cho cùng một Ký Ức có thể kích hoạt lẫn nhau.",
+    "PlayTutorial_EssenceCombination_Description1": "Việc nắm vững Phối Hợp Ngọc là tối quan trọng để ngươi sống sót tại Thác Mộng.",
+    "PlayTutorial_Essence_Description": "Ngươi có thể trang bị Ngọc cho Ký Ức để ban cho chúng những hiệu ứng đặc biệt.",
+    "PlayTutorial_Essence_Description0": "Ngọc là những vật thể chứa đựng sức mạnh của các Khái Niệm cụ thể.",
+    "PlayTutorial_Essence_Description1": "Ngọc ban cho Ký Ức được trang bị những hiệu ứng đặc biệt, và một Ký Ức có thể trang bị tối đa ba Ngọc.",
     "PlayTutorial_Essence_EquipOnNewSkill": "Ngươi hãy thử trang bị nó cho Ký Ức mới thu được.",
-    "PlayTutorial_Essence_EquipTwoEssencesOnNewSkill": "Ngươi hãy thử trang bị cả hai Tinh Hoa cho Ký Ức mới thu được.",
-    "PlayTutorial_Essence_MergeEssence": "Mức [quality] của Tinh Hoa đã gia tăng!",
+    "PlayTutorial_Essence_EquipTwoEssencesOnNewSkill": "Ngươi hãy thử trang bị cả hai Ngọc cho Ký Ức mới thu được.",
+    "PlayTutorial_Essence_MergeEssence": "Mức [quality] của Ngọc đã gia tăng!",
     "PlayTutorial_Guidebook": "Cẩm Nang",
     "PlayTutorial_Guidebook_Description": "Cẩm Nang có sẵn trong Thực đơn để ngươi xem thêm thông tin hữu ích.",
     "PlayTutorial_HeroAttributes": "Thuộc Tính Lữ Khách",
@@ -1439,7 +1439,7 @@
     "PlayTutorial_Remnants_KillWithSkill": "Đánh bại các Ảo ảnh bằng [new Memory] của ngươi!",
     "PlayTutorial_TryOtherControlScheme": "Thử các Sơ đồ Điều khiển Khác",
     "ProfileStats_BestRecords": "Kỷ Lục Tốt Nhất",
-    "ProfileStats_FavouriteEssences": "Tinh Hoa Ưa Thích",
+    "ProfileStats_FavouriteEssences": "Ngọc Ưa Thích",
     "ProfileStats_FavouriteMemories": "Hồi Ức Ưa Thích",
     "ProfileStats_FavouriteTraveler": "Lữ Khách Ưa Thích",
     "ProfileStats_HeroSelector_All": "Tất Cả",
@@ -1481,7 +1481,7 @@
     "PromotionBanner_Subtitle_GetUpdatesOnPrologue": "Chơi phần Mở đầu miễn phí trên Steam!",
     "PromotionBanner_Title_Genre": "Một Sự Kết Hợp Độc Đáo Giữa MOBA và Roguelite",
     "PromotionBanner_Title_MoreContentsEndlessModeComingSoon": "Danh Tánh Mới và Vô Tận Cảnh Sắp Ra Mắt!",
-    "PromotionBanner_Title_MoreMemoriesAndEssencesWillBeAdded": "Thêm nhiều Hồi ức và Tinh Hoa sẽ ra mắt!",
+    "PromotionBanner_Title_MoreMemoriesAndEssencesWillBeAdded": "Thêm nhiều Hồi ức và Ngọc sẽ ra mắt!",
     "PromotionBanner_Title_MultipleEndingNewCharactersAndLucidDreams": "Đa Dạng Kết Cục, Danh Tánh Mới, Mộng Cảnh Tỉnh Táo…",
     "PromotionBanner_Title_NewCharacterAndEndlessModeAdded": "Danh Tánh Mới và Vô Tận Cảnh Đã Ra Mắt!",
     "PromotionBanner_Title_NewMapsNewBossesMoreChallenges": "Cấp Độ Mới, Thủ Lĩnh, Thử Thách và Kết Cục Sẽ Sớm Hé Lộ!",
@@ -1981,7 +1981,7 @@
     "Settings_GameplayUser_uiScale": "Kích Cỡ Giao Diện",
     "Settings_GameplayUser_uiScale_Description": "Điều chỉnh kích cỡ các yếu tố Giao Diện Người Dùng, bao gồm thực đơn và HUD trong trò chơi.",
     "Settings_GameplayUser_unlockSkillsOutsideEditMode": "Chỉnh Sửa Ký Ức Ngoài Chế Độ Chỉnh Sửa",
-    "Settings_GameplayUser_unlockSkillsOutsideEditMode_Description": "Di chuyển Ký Ức và Tinh Hoa bất cứ lúc nào mà không cần chuyển sang Chế Độ Chỉnh Sửa.",
+    "Settings_GameplayUser_unlockSkillsOutsideEditMode_Description": "Di chuyển Ký Ức và Ngọc bất cứ lúc nào mà không cần chuyển sang Chế Độ Chỉnh Sửa.",
     "Settings_Graphics": "Đồ Họa",
     "Settings_Graphics_fogQuality": "Chất Lượng Sương Mù",
     "Settings_Graphics_fogQuality_Description": "Điều chỉnh chất lượng sương mù. Có thể tăng mức sử dụng GPU.",
@@ -1989,7 +1989,7 @@
     "Settings_Graphics_gameFrameLimit": "Giới Hạn Khung Hình Trò Chơi",
     "Settings_Graphics_menuFrameLimit": "Giới Hạn Khung Hình Thực Đơn",
     "Settings_Graphics_playerAbilityCount": "Số Lượng Thần Kỹ Người Chơi",
-    "Settings_Graphics_playerAbilityCount_Description": "Điều chỉnh số lượng Ký ức của người chơi, hiệu ứng Tinh hoa, và Vật phóng có thể hiển thị đồng thời trên màn hình. Các thiết lập thấp hơn ưu tiên hiệu suất bằng cách không hiển thị một số Năng lực trên màn hình hoặc đơn giản hóa các phép tính.",
+    "Settings_Graphics_playerAbilityCount_Description": "Điều chỉnh số lượng Ký ức của người chơi, hiệu ứng Ngọc, và Vật phóng có thể hiển thị đồng thời trên màn hình. Các thiết lập thấp hơn ưu tiên hiệu suất bằng cách không hiển thị một số Năng lực trên màn hình hoặc đơn giản hóa các phép tính.",
     "Settings_Graphics_resolution": "Độ Phân Giải",
     "Settings_Graphics_screenSpaceReflections": "Phản Chiếu Không Gian Màn Hình",
     "Settings_Graphics_screenSpaceReflections_Description": "Tạo ra Phản chiếu chân thực trên các bề mặt trơn nhẵn trong thời gian thực. Có thể tăng mức sử dụng tài nguyên GPU.",
@@ -2036,8 +2036,8 @@
     "Settings_ResetToDefaults": "Khôi phục Mặc định",
     "Settings_Undo": "Hoàn tác Thay đổi",
     "Settings_UnoptimalResolutionWarning": "Trò chơi không hỗ trợ độ phân giải hiện tại đã chọn, điều này có thể khiến các nút giao diện và văn bản bị chồng chéo hoặc cắt cụt.\n\nTa khuyến nghị ngươi nên chơi trên màn hình có độ phân giải tỷ lệ 16:9 hoặc tương tự, hoặc giảm Kích thước Giao diện trong cài đặt lối chơi trước khi bắt đầu.",
-    "Shrine_AltarOfCleansing_Description": "Ngươi có thể tẩy luyện Ký Ức hoặc Tinh Hoa để thu nhận Mộng Trần.",
-    "Shrine_AltarOfCleansing_EditSkillTooltip_Essence": "Phẩm chất của Tinh Hoa này sẽ được khôi phục về {0} và ngươi sẽ nhận được {1} Mộng Trần.",
+    "Shrine_AltarOfCleansing_Description": "Ngươi có thể tẩy luyện Ký Ức hoặc Ngọc để thu nhận Mộng Trần.",
+    "Shrine_AltarOfCleansing_EditSkillTooltip_Essence": "Phẩm chất của Ngọc này sẽ được khôi phục về {0} và ngươi sẽ nhận được {1} Mộng Trần.",
     "Shrine_AltarOfCleansing_EditSkillTooltip_Memory": "Cấp độ của Ký Ức này sẽ được khôi phục về {0} và ngươi sẽ nhận được {1} Mộng Trần.",
     "Shrine_AltarOfCleansing_Name": "Đàn Tế Tẩy Luyện",
     "Shrine_Anitya_Name": "Đàn Tế Vô Thường",
@@ -2055,7 +2055,7 @@
     "Shrine_BrokenWoodenDoll_Name": "Mộc Khôi Lỗi",
     "Shrine_CallOfTheRavenous_Name": "Tàn tích của Agui",
     "Shrine_Chaos_Name": "Hỗn mang",
-    "Shrine_Concept_Description": "Một Di Vực thấm đẫm Sức Mạnh Khái Niệm ngẫu nhiên.\nTriệu hồi ngẫu nhiên một Tinh Hoa.",
+    "Shrine_Concept_Description": "Một Di Vực thấm đẫm Sức Mạnh Khái Niệm ngẫu nhiên.\nTriệu hồi ngẫu nhiên một Ngọc.",
     "Shrine_Concept_Name": "Di Vực Khái Niệm",
     "Shrine_CorruptedChaos_AddedEssenceSlot_ActionVerb": "Thêm",
     "Shrine_CorruptedChaos_AddedEssenceSlot_Description": "Tăng số khe Tinh chất của một Ký ức thêm `addedGemSlot`.",
@@ -2067,7 +2067,7 @@
     "Shrine_CorruptedChaos_AttackRange_Description": "Tăng Tầm Đánh Thường thêm `attackRangeBonus|#,##0.#`m.",
     "Shrine_CorruptedChaos_AttackRange_Name": "Đôi mắt Tinh anh",
     "Shrine_CorruptedChaos_AttackRange_Stat": "Tầm Đánh Thường",
-    "Shrine_CorruptedChaos_ColdAmp_Description": "Tăng hiệu ứng giảm Tốc độ di chuyển và Tốc độ Đánh của Băng thêm `coldAmpBonus|percent*100`.",
+    "Shrine_CorruptedChaos_ColdAmp_Description": "Tăng hiệu ứng làm chậm của Băng tăng `coldAmpBonus|percent*100`.",
     "Shrine_CorruptedChaos_ColdAmp_Name": "Sự Khinh bỉ Lạnh lẽo",
     "Shrine_CorruptedChaos_ColdAmp_Stat": "Hiệu ứng Băng",
     "Shrine_CorruptedChaos_CritChance_Description": "Tăng Tỉ lệ Chí mạng thêm `critChanceBonus|percent*100`.",
@@ -2106,14 +2106,14 @@
     "Shrine_Destiny_Name": "Tàn tích Định mệnh",
     "Shrine_Disintegration_Description": "Một Thần Đài sẽ phân giải mọi vật khi chạm vào. Hãy Hy Sinh Sinh Lực của ngươi để đổi lấy tài nguyên.",
     "Shrine_Disintegration_Name": "Tế Đàn Phá Giải",
-    "Shrine_Enlightenment_Description": "Một Di Vực thấm đẫm Sức Mạnh Khái Niệm ngẫu nhiên.\nHãy chọn và triệu hồi ngẫu nhiên một Tinh Hoa.",
+    "Shrine_Enlightenment_Description": "Một Di Vực thấm đẫm Sức Mạnh Khái Niệm ngẫu nhiên.\nHãy chọn và triệu hồi ngẫu nhiên một Ngọc.",
     "Shrine_Enlightenment_Name": "Di Vực Khai Sáng",
-    "Shrine_Entanglement_Confirmation_Essence": "Hy sinh tất cả Tinh Hoa khác để Cường Hóa {0}. Ngươi có muốn tiếp tục không？",
+    "Shrine_Entanglement_Confirmation_Essence": "Hy sinh tất cả Ngọc khác để Cường Hóa {0}. Ngươi có muốn tiếp tục không？",
     "Shrine_Entanglement_Confirmation_Memory": "Hy sinh tất cả Ký Ức, trừ Ký Ức Bản Ngã, để Cường Hóa {0}. Ngươi có muốn tiếp tục không？",
-    "Shrine_Entanglement_Description": "Nó mang hình hài nhiều Ký Ức của lữ khách, đan xen và vướng víu vào nhau. Nó sở hữu một sức mạnh kỳ lạ, có thể kết hợp các Ký Ức và Tinh Hoa.",
+    "Shrine_Entanglement_Description": "Nó mang hình hài nhiều Ký Ức của lữ khách, đan xen và vướng víu vào nhau. Nó sở hữu một sức mạnh kỳ lạ, có thể kết hợp các Ký Ức và Ngọc.",
     "Shrine_Entanglement_EditSkill": "Hãy chọn mục tiêu cho Nghi Lễ Giao Chuyển.",
     "Shrine_Entanglement_Name": "Di Vực Giao Chuyển",
-    "Shrine_Entanglement_Rejection_NoOtherEssence": "Ngươi phải sở hữu ít nhất một Tinh Hoa khác.",
+    "Shrine_Entanglement_Rejection_NoOtherEssence": "Ngươi phải sở hữu ít nhất một Ngọc khác.",
     "Shrine_Entanglement_Rejection_NoOtherMemory": "Ngươi phải sở hữu ít nhất một Ký Ức khác.",
     "Shrine_FragmentOfRadiance_Name": "Mảnh Vỡ Quang Huy",
     "Shrine_Guidance_Description": "Hồi phục Sinh Lực cho đồng minh lân cận nhờ Sức Mạnh của Người Dẫn Lối.",
@@ -2157,7 +2157,7 @@
     "Shrine_MarshOfDestiny_SeedOfTorment_Name": "Hạt Giống Thống Khổ",
     "Shrine_MarshOfDestiny_SeedOfTorment_ReceiveOnCompleteWorld": "Phần thưởng khi hoàn thành thế giới này:",
     "Shrine_MarshOfDestiny_SeedOfTorment_RewardItem": "Tất cả Lữ Khách nhận được {0}.",
-    "Shrine_MawOfDoom_ChanceTooltip_Essence": "CẢNH BÁO: Có {0} khả năng Tinh Hoa này sẽ bị hủy diệt.",
+    "Shrine_MawOfDoom_ChanceTooltip_Essence": "CẢNH BÁO: Có {0} khả năng Ngọc này sẽ bị hủy diệt.",
     "Shrine_MawOfDoom_ChanceTooltip_Memory": "CẢNH BÁO: Có {0} khả năng Ký Ức này sẽ bị hủy diệt.",
     "Shrine_MawOfDoom_Description": "Một Di Vực Diệt Vong nuốt chửng vạn vật. Hãy xử lý cẩn trọng, bởi nó có thể hữu ích cho ngươi.",
     "Shrine_MawOfDoom_DestroyedMessage": "Hàm Vong Miệng đã nuốt chửng {1} từ {0}.",
@@ -2165,10 +2165,10 @@
     "Shrine_Memory_Description": "Một Di Vực chứa đựng Ký Ức Vãng Trần.\nTriệu hồi ngẫu nhiên một Ký Ức từ quá khứ.",
     "Shrine_Memory_Name": "Di Vực Ký Ức",
     "Shrine_Merchant_Backpack_Name": "Bối Nang Thương Nhân",
-    "Shrine_MirrorOfRemorse_Confirm": "Tất cả Ký Ức (trừ Ký Ức Bản Ngã) và tất cả Tinh Hoa sẽ được thay thế bằng loại ngẫu nhiên.\nCấp độ của Ký Ức được thay thế tăng {0}, và Chất Lượng Tinh Hoa được thay thế tăng {1}.\n\nNgươi có muốn tiếp tục không？",
+    "Shrine_MirrorOfRemorse_Confirm": "Tất cả Ký Ức (trừ Ký Ức Bản Ngã) và tất cả Ngọc sẽ được thay thế bằng loại ngẫu nhiên.\nCấp độ của Ký Ức được thay thế tăng {0}, và Chất Lượng Ngọc được thay thế tăng {1}.\n\nNgươi có muốn tiếp tục không？",
     "Shrine_MirrorOfRemorse_Description": "Ngươi có thể nhìn thấy những khoảnh khắc hạnh phúc của một Lữ Khách vô danh, chồng chéo với những khoảnh khắc bất hạnh đến tột cùng của hắn.",
     "Shrine_MirrorOfRemorse_Name": "Kính Hối Hận",
-    "Shrine_MirrorOfRemorse_NeedAtLeastOne": "Ngươi phải sở hữu ít nhất một Ký Ức hoặc một Tinh Hoa.",
+    "Shrine_MirrorOfRemorse_NeedAtLeastOne": "Ngươi phải sở hữu ít nhất một Ký Ức hoặc một Ngọc.",
     "Shrine_Paradox_Description": "...",
     "Shrine_Paradox_Name": "Di Vực Nghịch Lý",
     "Shrine_PotOfGreed_Description": "Nó dường như chứa một lượng lớn Vàng, song lại toát lên một cảm giác điềm gở.",
@@ -2184,7 +2184,7 @@
     "Shrine_StarCookie_Name": "Bánh Ngọt Tinh Tú Mới Nướng",
     "Shrine_Stardust_Name": "Tinh Trần",
     "Shrine_TheConsortOfNight_Name": "Quạ Bị Phong Ấn",
-    "Shrine_UpgradeWell_Description": "Ngươi có thể sử dụng Mộng Trần để Cường Hóa Ký Ức và Tinh Hoa của mình.",
+    "Shrine_UpgradeWell_Description": "Ngươi có thể sử dụng Mộng Trần để Cường Hóa Ký Ức và Ngọc của mình.",
     "Shrine_UpgradeWell_Name": "Giếng Lung Linh",
     "SkillCheck_CriticalFailure": "Thất Bại Chí Mạng!",
     "SkillCheck_CriticalSuccess": "Thành Công Chí Mạng!",
@@ -2416,7 +2416,7 @@
     "Title_Profile_State_Corrupted": "Lỗi",
     "Title_Profile_State_Unsupported": "Không Tương Thích",
     "Title_PrologueSplash_PrologueReleased": "Khúc Dạo Đầu Hiện Đã Sẵn Sàng!",
-    "Title_PrologueSplash_PrologueReleased_Description_1": "Hãy trải nghiệm <b>Chế Độ Vô Tận, các nhân vật mới, Tinh Hoa, Hồi Ức, Mộng Tỉnh Thức</b> và nhiều hơn nữa! Khúc Dạo Đầu sẽ tiếp tục nhận các cập nhật miễn phí cho đến khi phát hành chính thức.",
+    "Title_PrologueSplash_PrologueReleased_Description_1": "Hãy trải nghiệm <b>Chế Độ Vô Tận, các nhân vật mới, Ngọc, Hồi Ức, Mộng Tỉnh Thức</b> và nhiều hơn nữa! Khúc Dạo Đầu sẽ tiếp tục nhận các cập nhật miễn phí cho đến khi phát hành chính thức.",
     "Title_PrologueSplash_PrologueReleased_Description_2": "Tải Khúc Dạo Đầu miễn phí trên Steam và tận hưởng toàn bộ nội dung mới!",
     "Title_PrologueSplash_PrologueUpcoming": "Khúc Dạo Đầu Sắp Ra Mắt",
     "Title_PrologueSplash_PrologueUpcoming_Description_1": "Chế Độ Vô Tận, Các Nhân Vật Mới, và Mộng Tỉnh Thức…",
@@ -2442,8 +2442,8 @@
     "Treasure_Clairvoyance_WorldHasAlreadyBeenRevealed": "Thế giới đã được hé lộ.",
     "Treasure_Clairvoyance_WorldHasBeenReaveledBy": "{0} đã hé lộ thế giới.",
     "Treasure_CloakOfGuidance_HunterHasBeenDelayedBy": "{0} đã kìm chân Kẻ Săn Lùng trong {1} lượt.",
-    "Tut_Cleanse": "Tại Bàn Thờ Tịnh Hóa, ngươi có thể tịnh hóa Hồi Ức hoặc Tinh Hoa.\nĐiều này sẽ đặt lại cấp độ của Hồi Ức và phẩm chất của Tinh Hoa, chuyển đổi chúng thành Mộng Trần.",
-    "Tut_ShopSell": "Ngươi có thể bán Hồi Ức hoặc Tinh Hoa bằng cách nhấp vào chúng trong Cửa Hàng.",
+    "Tut_Cleanse": "Tại Bàn Thờ Tịnh Hóa, ngươi có thể tịnh hóa Hồi Ức hoặc Ngọc.\nĐiều này sẽ đặt lại cấp độ của Hồi Ức và phẩm chất của Ngọc, chuyển đổi chúng thành Mộng Trần.",
+    "Tut_ShopSell": "Ngươi có thể bán Hồi Ức hoặc Ngọc bằng cách nhấp vào chúng trong Cửa Hàng.",
     "Tut_WorldHunt_Hunt": "Kẻ Săn Lùng sẽ sớm chiếm cứ khu vực này.\nChúng sẽ truy đuổi cuộc viễn chinh của ngươi mỗi khi ngươi du ngoạn.",
     "Tut_World_ClickOnAdjacentRooms": "Nhấp vào một căn phòng gần kề để du ngoạn.",
     "Tut_World_CurrentRoom": "Đây là vị trí hiện tại của ngươi.",
@@ -16984,7 +16984,7 @@
       ]
     },
     "Q_SuperNova": {
-      "memory": "Quả là một nghịch lý đẹp đẽ và bi tráng. \nNhững vì sao đốt cháy tinh hoa của chính mình để tỏa sáng rực rỡ nhất, \nchỉ để khoảnh khắc đó báo hiệu sự khởi đầu của sự tĩnh lặng vĩnh hằng.",
+      "memory": "Quả là một nghịch lý đẹp đẽ và bi tráng. \nNhững vì sao đốt cháy Ngọc của chính mình để tỏa sáng rực rỡ nhất, \nchỉ để khoảnh khắc đó báo hiệu sự khởi đầu của sự tĩnh lặng vĩnh hằng.",
       "configs": [
         {
           "name": "Vụ Nổ Siêu Tân Tinh",
@@ -24589,7 +24589,7 @@
       "memory": null
     },
     "C_Charcoal": {
-      "name": "Tinh Hoa Hắc Thạch",
+      "name": "Ngọc Hắc Thạch",
       "template": "Hắc Thạch {0}",
       "description": [
         {
@@ -24720,7 +24720,7 @@
       "memory": "Một khối cháy sém từng được binh lính nuốt vào trong trận chiến để thanh tẩy độc tố khỏi cơ thể họ.\n\nTrong những khoảnh khắc tuyệt vọng ấy, nó mang vị của sự sống còn."
     },
     "C_Confidence": {
-      "name": "Tinh Hoa Tự Tín",
+      "name": "Ngọc Tự Tín",
       "template": "Tự Tin {0}",
       "description": [
         {
@@ -24752,7 +24752,7 @@
       "memory": null
     },
     "C_Efficiency": {
-      "name": "Tinh Hoa Hiệu Suất",
+      "name": "Ngọc Hiệu Suất",
       "template": "Hiệu Suất {0}",
       "description": [
         {
@@ -24843,7 +24843,7 @@
       "memory": null
     },
     "C_Guidance": {
-      "name": "Tinh Hoa Dẫn Lối",
+      "name": "Ngọc Dẫn Lối",
       "template": "Dẫn Lối {0}",
       "description": [
         {
@@ -24953,7 +24953,7 @@
       "memory": "Ai định đoạt lẽ chân thực của sinh mệnh？\nDẫu ta được sinh ra từ trí tưởng tượng của một kẻ vô danh,\nnhưng điều đó chẳng khiến sự tồn tại của ta kém phần chân thật.\n\nNgươi đã ban cho ta sự sống,\nthế mà lại bác bỏ ta chỉ như những ảo ảnh hư vô.\n\nNếu đó là điều tất yếu, hỡi Đấng Sáng Tạo,\nthì ta, bằng ý chí của riêng mình, sẽ trở thành người dẫn lối cho tất cả \"chúng ta.\""
     },
     "C_Lethality": {
-      "name": "Tinh Hoa Chí Mạng",
+      "name": "Ngọc Chí Mạng",
       "template": "Chí Mạng {0}",
       "description": [
         {
@@ -25004,7 +25004,7 @@
       "memory": null
     },
     "C_Love": {
-      "name": "Tinh Hoa Ái Tình",
+      "name": "Ngọc Ái Tình",
       "template": "Ái Tình {0}",
       "description": [
         {
@@ -25174,7 +25174,7 @@
       "memory": "Chỉ là ảo ảnh, ngươi nói vậy ư？\n…\n\nTất cả những điều này chỉ là một ảo mộng vô nghĩa chăng？\n\n…\n…\nKhông.\n\nÁnh sáng của ta, tình yêu của ta, Kiara.\nNgười dẫn lối vĩnh hằng cho linh hồn ta.\nKhông thể nào là như vậy.\nMột thực tại thiếu vắng ngươi chẳng mang ý nghĩa gì.\n\nAi dám phân định đâu là ảo ảnh, đâu là thực tại？\nGiới hạn ấy…\nSẽ tan biến ngay hôm nay."
     },
     "C_Quicksilver": {
-      "name": "Tinh Hoa Nhanh Nhẹn",
+      "name": "Ngọc Nhanh Nhẹn",
       "template": "Nhanh Nhẹn {0}",
       "description": [
         {
@@ -25280,7 +25280,7 @@
       "memory": "Tốc độ là thượng sách!"
     },
     "C_Regeneration": {
-      "name": "Tinh Hoa Hồi Phục",
+      "name": "Ngọc Hồi Phục",
       "template": "{0} Hồi Phục",
       "description": [
         {
@@ -25407,7 +25407,7 @@
       "memory": null
     },
     "C_Responsibility": {
-      "name": "Tinh Hoa Trách Nhiệm",
+      "name": "Ngọc Trách Nhiệm",
       "template": "Trách Nhiệm {0}",
       "description": [
         {
@@ -25557,7 +25557,7 @@
       "memory": null
     },
     "C_Sharp": {
-      "name": "Tinh Hoa Sắc Bén",
+      "name": "Ngọc Sắc Bén",
       "template": "Sắc Bén {0}",
       "description": [
         {
@@ -25643,7 +25643,7 @@
       "memory": null
     },
     "C_Shatter": {
-      "name": "Tinh Hoa Phá Toái",
+      "name": "Ngọc Phá Toái",
       "template": "Phá Toái {0}",
       "description": [
         {
@@ -25793,7 +25793,7 @@
       "memory": "Là một người sưu tầm cố sự, ta chỉ đơn thuần thu thập các truyền thuyết. Vai trò và vận mệnh của ta là dõi theo một lộ trình định trước từ khởi thủy đến hồi kết. Tựa như Sisyphus trong cổ truyền đã học cách yêu khối đá của mình, ta cũng đã chấp nhận số phận của ta.\n\nNhưng ngươi luôn khác biệt. Ngươi khước từ để cố sự của ngươi đi theo lộ trình đã định sẵn. Mỗi khi ta nghe ngươi nói, \"Chỉ vì ta được sinh ra như thế, chẳng có nghĩa ta buộc phải sống mãi như thế,\" ta lại cảm thấy một vết nứt nhỏ hình thành trong quyển cố sự của ta.\n\nNgươi đừng hiểu lầm. Vết nứt này không hề khó chịu. Ngược lại, nó khiến ta say mê. Giữa vô vàn cố sự đang lao về cái kết đã định, cố sự của ngươi là thứ duy nhất mà ta không tài nào tiên đoán được trang tiếp theo.\n\nTa háo hức muốn xem sự bất khuất ngoan cường của ngươi sẽ mang đến cái kết nào. Chương cuối cùng ấy có thể trở thành bảo vật quý giá nhất trong toàn bộ bộ sưu tập của ta."
     },
     "C_Sulfur": {
-      "name": "Tinh hoa Huỳnh Thạch",
+      "name": "Ngọc Huỳnh Thạch",
       "template": "Huỳnh Thạch {0}",
       "description": [
         {
@@ -25884,7 +25884,7 @@
       "memory": null
     },
     "C_Talc": {
-      "name": "Tinh hoa Hoạt Thạch",
+      "name": "Ngọc Hoạt Thạch",
       "template": "Phấn Thạch {0}",
       "description": [
         {
@@ -25992,10 +25992,10 @@
         }
       ],
       "shortDescription": "Định kỳ tăng Sát thương",
-      "memory": "Một tinh hoa cô đọng từ vỏ hạt dẻ non và độ bột phấn dày đặc của bụi phấn.\n\nKẻ nào chấp nhận khái niệm này có thể khai thác sức mạnh khó chịu của nó, nhưng phải làm vậy thì thật sự là bất hạnh."
+      "memory": "Một Ngọc cô đọng từ vỏ hạt dẻ non và độ bột phấn dày đặc của bụi phấn.\n\nKẻ nào chấp nhận khái niệm này có thể khai thác sức mạnh khó chịu của nó, nhưng phải làm vậy thì thật sự là bất hạnh."
     },
     "C_Vengeance": {
-      "name": "Tinh hoa Phục Hận",
+      "name": "Ngọc Phục Hận",
       "template": "Phục Hận {0}",
       "description": [
         {
@@ -26144,7 +26144,7 @@
       "memory": null
     },
     "C_Void": {
-      "name": "Tinh hoa Hư Không",
+      "name": "Ngọc Hư Không",
       "template": "Hư Không {0}",
       "description": [
         {
@@ -26235,7 +26235,7 @@
       "memory": "Tại mũi kiếm của con rối rỗng tuếch,\nmột luồng hắc khí mờ nhạt tụ lại.\n\nĐó không phải là sự chuẩn bị cho đòn đánh tiếp theo.\nĐó chỉ đơn thuần là sự hiện hình của sự trống rỗng,\nhé lộ cái hư vô bên trong.\n\nNghịch lý thay,\nthanh kiếm của con rối lại cắt qua kẻ thù\nvới lực sắc bén hơn, bùng nổ hơn.\n\nNhư một nỗ lực phù du\nhướng về một khoảng không không bao giờ có thể lấp đầy."
     },
     "C_Wind": {
-      "name": "Tinh hoa Phong",
+      "name": "Ngọc Phong",
       "template": "Phong {0}",
       "description": [
         {
@@ -26306,7 +26306,7 @@
       "memory": null
     },
     "E_Aftershock": {
-      "name": "Tinh hoa Dư Chấn",
+      "name": "Ngọc Dư Chấn",
       "template": "Chấn Động {0}",
       "description": [
         {
@@ -26708,7 +26708,7 @@
       "memory": null
     },
     "E_Blossom": {
-      "name": "Tinh hoa Khai Hoa",
+      "name": "Ngọc Khai Hoa",
       "template": "Nở Rộ {0}",
       "description": [
         {
@@ -26839,7 +26839,7 @@
       "memory": "Bình minh sớm, và mưa đang rơi.\nNó làm ta nhớ lại ngày hôm đó, khi chúng ta cùng nhau ươm hoa nở.\n\nTa đã muốn tạo ra một đóa hoa trắng tinh khôi, như buổi sớm mai tĩnh lặng.\nMột đứa trẻ như chiếc đèn lồng, nắm giữ tất cả trật tự và sự yên bình của khu rừng.\n\nNhưng ngươi, ngồi xổm bên cạnh quan sát ta, đột nhiên càu nhàu.\nRồi ngươi vô tư rải màu tím thẫm như cơn bão, và tinh nghịch tô lên đó màu vàng sét.\n\nTa đã mắng ngươi, và ngươi chỉ cười.\nTa thực sự tin rằng kế hoạch hoàn hảo của mình đã bị sự hỗn loạn của ngươi phá hỏng.\n\nNhưng sáng hôm sau, khi chúng ta cùng ngắm nhìn đóa hoa ấy...\nTrên sự thanh bình trắng muốt, những sắc màu náo loạn của ngươi tuôn chảy như một dòng sông sống động.\n\nChỉ khi đó ta mới hiểu.\nPhải, vẻ đẹp thực sự của khu rừng cần cả trật tự của ta và sự hỗn loạn của ngươi, đan xen vào nhau.\nChỉ khi đó nó mới trở nên trọn vẹn.\n\n...\nMưa... đang thấm vào mặt nạ của ta.\nHôm nay, hơn bao giờ hết, ta ước mình có thể nhìn thấy\nđôi mắt tinh nghịch của ngươi một lần nữa."
     },
     "E_Clemency": {
-      "name": "Tinh hoa Khoan Dung",
+      "name": "Ngọc Khoan Dung",
       "template": "Khoan Dung {0}",
       "description": [
         {
@@ -26926,7 +26926,7 @@
       "memory": null
     },
     "E_Crimson": {
-      "name": "Tinh hoa Huyết Sắc",
+      "name": "Ngọc Huyết Sắc",
       "template": "Huyết Sắc {0}",
       "description": [
         {
@@ -27136,7 +27136,7 @@
       "memory": "Ta mở mắt. Cơn mê đã kết thúc.\nMọi khớp xương trong cơ thể ta kêu rắc rắc và rên rỉ, nhưng ta không cảm thấy đau đớn.\n\nNhững mảnh ký ức trôi dạt qua ý thức mơ hồ của ta.\nKẻ Rối Sư. Khách hàng. Và bản hợp đồng thất bại...\nNhững mảnh ghép mờ nhạt này hợp lại tại... dinh thự quen thuộc của chủ nhân ta.\n\nĐỏ. Mọi thứ đều màu đỏ.\nCái gì dưới chân ta đây? À, đó từng là một con người.\n\nĐỏ thẫm.\n\nTa đã tạo ra thứ này sao? Biển đỏ này?\nQuả nhiên, một núi xác chết trong biển máu...\n\nNhưng tại sao?\nTại sao trái tim ta vẫn tĩnh lặng, không một gợn sóng?"
     },
     "E_Direness": {
-      "name": "Tinh hoa Khốn Cảnh",
+      "name": "Ngọc Khốn Cảnh",
       "template": "Khốn Cảnh {0}",
       "description": [
         {
@@ -27267,7 +27267,7 @@
       "memory": "Sao ta vẫn còn sống…？\n\n…\n\nTa chắc chắn bị giam trong ngục của Hội Dòng.\n…Những tên Lucid khốn kiếp đó đã giăng bẫy.\nĐó là sai lầm của ta.\nTa đã quá vội vàng.\n\nThật kỳ lạ.\nGiáp ngực của ta đã vỡ tan, và ta chắc chắn ít nhất hai xương sườn đã gãy…\nNhưng ta cảm thấy ổn. Không, ta thực sự cảm thấy mạnh mẽ hơn.\n\nTa đang ở đâu？ Đây có phải là một loại ma thuật nào đó…？ \n\n…\nNó rất mờ nhạt, nhưng ta có thể cảm nhận được.\nAstrid, muội muội của ta…\nTa sẽ không để mình mắc sai lầm nữa.\n\nHãy đợi ta. Ta đang đến."
     },
     "E_Domination": {
-      "name": "Tinh Hoa Thống Trị",
+      "name": "Ngọc Thống Trị",
       "template": "{0} Thống Trị",
       "description": [
         {
@@ -27435,7 +27435,7 @@
       "memory": null
     },
     "E_Fangs": {
-      "name": "Tinh hoa Nanh Vuốt",
+      "name": "Ngọc Nanh Vuốt",
       "template": "Nanh Vuốt {0}",
       "description": [
         {
@@ -27606,7 +27606,7 @@
       "memory": null
     },
     "E_Fever": {
-      "name": "Tinh hoa Cuồng Nhiệt",
+      "name": "Ngọc Cuồng Nhiệt",
       "template": "Cuồng Nhiệt {0}",
       "description": [
         {
@@ -27795,7 +27795,7 @@
       "memory": null
     },
     "E_Flexibility": {
-      "name": "Tinh hoa Linh Hoạt",
+      "name": "Ngọc Linh Hoạt",
       "template": "Linh Hoạt {0}",
       "description": [
         {
@@ -27937,7 +27937,7 @@
       "memory": null
     },
     "E_Insensitivity": {
-      "name": "Tinh hoa Vô Cảm",
+      "name": "Ngọc Vô Cảm",
       "template": "Vô Cảm {0}",
       "description": [
         {
@@ -28062,7 +28062,7 @@
       "memory": null
     },
     "E_Insight": {
-      "name": "Tinh hoa Minh Triết",
+      "name": "Ngọc Minh Triết",
       "template": "Minh Triết {0}",
       "description": [
         {
@@ -28230,7 +28230,7 @@
       "memory": null
     },
     "E_Inversion": {
-      "name": "Tinh hoa Nghịch Đảo",
+      "name": "Ngọc Nghịch Đảo",
       "template": "Nghịch Đảo {0}",
       "description": [
         {
@@ -28361,7 +28361,7 @@
       "memory": null
     },
     "E_Metal": {
-      "name": "Tinh hoa Kim",
+      "name": "Ngọc Kim",
       "template": "Kim {0}",
       "description": [
         {
@@ -28453,7 +28453,7 @@
       "memory": "Dưới chân cô bé, sơn lấp lánh đủ màu sắc cầu vồng.\n\nCùng một sắc thái đáng yêu như những đóa hồng mà bà Maria nhà bên từng trồng,\nthứ sơn này, nó có mùi kim loại—giống hệt như ta!\n\nĐược cô bé thúc giục, cuốn sách vội vã viết tiếp câu chuyện bằng thứ sơn đó làm mực.\n\nKỳ lạ thay, loại mực này khô nhanh bất thường,\nnên cuốn sách phải lật sang trang tiếp theo mà không được nghỉ ngơi một chút nào."
     },
     "E_Might": {
-      "name": "Tinh hoa Cự Nhân",
+      "name": "Ngọc Cự Nhân",
       "template": "Cự Đại {0}",
       "description": [
         {
@@ -28582,7 +28582,7 @@
       "memory": null
     },
     "E_Obsidian": {
-      "name": "Tinh hoa Hắc Diệu Thạch",
+      "name": "Ngọc Hắc Diệu Thạch",
       "template": "Hắc Diệu Thạch {0}",
       "description": [
         {
@@ -28747,7 +28747,7 @@
       "memory": null
     },
     "E_Omega": {
-      "name": "Tinh hoa Chung Cục",
+      "name": "Ngọc Chung Cục",
       "template": "Chung Cục {0}",
       "description": [
         {
@@ -28960,7 +28960,7 @@
       "memory": null
     },
     "E_Opportunity": {
-      "name": "Tinh hoa Thời Cơ",
+      "name": "Ngọc Thời Cơ",
       "template": "Thời Cơ {0}",
       "description": [
         {
@@ -29291,7 +29291,7 @@
       "memory": null
     },
     "E_Overload": {
-      "name": "Tinh hoa Quá Tải",
+      "name": "Ngọc Quá Tải",
       "template": "Quá Tải {0}",
       "description": [
         {
@@ -29482,7 +29482,7 @@
       "memory": "Mỗi khi ta suy ngẫm về khái niệm này, ta cảm thấy thân thể và tâm trí mình bị nhấn chìm trong biển lửa.\n\nCác lớp vảy trên vùng bị ảnh hưởng dễ dàng vỡ vụn, tỏa ra một nhiệt lượng dữ dội. Khi ta thu thập bụi vàng từ một số bộ phận nhất định, nó phát sáng rực rỡ và cho cảm giác cực kỳ mịn màng khi chạm vào.\n\nMa thuật khai triển nhờ sức mạnh của những giấc mơ, và khi bụi này được thêm vào, phản ứng trở nên bùng nổ hơn nữa. Chỉ một chút rắc nhẹ đã để lại một vết cháy lớn trên trần nhà.\n\nTa nên ghi chép lại kết quả của thí nghiệm này, nhưng ta quá kiệt sức. Khái niệm này dường như gây ra một gánh nặng tinh thần lớn.\n\nTa nghi ngờ nó có liên hệ với sức mạnh ta từng chạm trán trước đây. Quả thật là hấp dẫn. Cần nghiên cứu thêm để khám phá nguồn gốc của sức mạnh này. Có lẽ cần một cuộc khảo sát thực địa."
     },
     "E_Pain": {
-      "name": "Tinh hoa Thống Khổ",
+      "name": "Ngọc Thống Khổ",
       "template": "Thống Khổ {0}",
       "description": [
         {
@@ -29574,7 +29574,7 @@
       "memory": "Ngươi chớ phạm thượng. Ta không phải kẻ điên cuồng thích thú tra tấn nỗi đau. Tuy nhiên, ta không thể bỏ qua những kẻ dám cả gan thách thức uy quyền của Thần Thánh.\n\nVì Đấng tối cao dõi nhìn chúng ta từ trên cao,\n\nTa sẽ, một cách danh chính ngôn thuận và đầy vinh quang, thiêu đốt làn da và xẻ thịt ngươi."
     },
     "E_Predation": {
-      "name": "Tinh Hoa Sát Lục",
+      "name": "Ngọc Sát Lục",
       "template": "{0} Sát Lục",
       "description": [
         {
@@ -29901,7 +29901,7 @@
       "memory": "Đói... luôn luôn.\nTổ của ta là núi xương.\nThịt... con mồi... không đủ.\n\nNhưng... cái gì đó mới. Đã đến.\nMùi thịt. Mùi sợ hãi.\n\nNghiền xương. Xé thịt. Nuốt chửng tiếng hét.\nĐây là công việc của ta. Đây là... niềm vui của Chúa Tể Primus.\n\nNgươi cũng vậy... trở thành xương.\nMột phần của tổ ta.\nPhong cảnh xinh đẹp của... Chúa Tể Primus.\n\nKik, kikikik."
     },
     "E_Protection": {
-      "name": "Tinh Hoa Thủ Hộ",
+      "name": "Ngọc Thủ Hộ",
       "template": "{0} Thủ Hộ",
       "description": [
         {
@@ -30026,7 +30026,7 @@
       "memory": null
     },
     "E_Reflex": {
-      "name": "Tinh Hoa Phản Xạ",
+      "name": "Ngọc Phản Xạ",
       "template": "{0} Phản Xạ",
       "description": [
         {
@@ -30156,7 +30156,7 @@
       "memory": null
     },
     "E_Thunder": {
-      "name": "Tinh Hoa Lôi Đình",
+      "name": "Ngọc Lôi Đình",
       "template": "{0} của Lôi Đình",
       "description": [
         {
@@ -30342,7 +30342,7 @@
       "memory": null
     },
     "E_Twilight": {
-      "name": "Tinh Hoa U Minh",
+      "name": "Ngọc U Minh",
       "template": "{0} của Bình Minh",
       "description": [
         {
@@ -30512,7 +30512,7 @@
       "memory": null
     },
     "E_Umbra": {
-      "name": "Tinh Hoa Dạ Ảnh",
+      "name": "Ngọc Dạ Ảnh",
       "template": "{0} Phủ Bóng",
       "description": [
         {
@@ -30663,7 +30663,7 @@
       "memory": null
     },
     "E_Virtuousness": {
-      "name": "Tinh Hoa Chân Nguyên",
+      "name": "Ngọc Chân Nguyên",
       "template": "{0} Chân Nguyên",
       "description": [
         {
@@ -31685,7 +31685,7 @@
       "memory": null
     },
     "L_Paranoia": {
-      "name": "Tinh Hoa Hoang Tưởng",
+      "name": "Ngọc Hoang Tưởng",
       "template": "{0} Hoang Tưởng",
       "description": [
         {
@@ -32678,7 +32678,7 @@
       "memory": null
     },
     "R_Abyss": {
-      "name": "Tinh Hoa Vực Thẳm",
+      "name": "Ngọc Vực Thẳm",
       "template": "{0} Hắc Ám",
       "description": [
         {
@@ -32809,7 +32809,7 @@
       "memory": null
     },
     "R_Accuracy": {
-      "name": "Tinh Hoa Tinh Xảo",
+      "name": "Ngọc Tinh Xảo",
       "template": "{0} Tinh Xảo",
       "description": [
         {
@@ -32941,7 +32941,7 @@
       "memory": null
     },
     "R_Adventure": {
-      "name": "Tinh Hoa Kỳ Ngộ",
+      "name": "Ngọc Kỳ Ngộ",
       "template": "{0} Kỳ Ngộ",
       "description": [
         {
@@ -33026,7 +33026,7 @@
         },
         {
           "type": 0,
-          "textData": " Tinh Hoa ",
+          "textData": " Ngọc ",
           "expressionData": null
         },
         {
@@ -33092,7 +33092,7 @@
       "memory": "Đối với cô bé, phiêu lưu là hành động lấp đầy những trang giấy trắng đầy phấn khích.\nVới mỗi bước cô đi, một câu mới được viết ra, một nhân vật mới xuất hiện.\n\nHôm nay cũng vậy, cô bé đã chia sẻ nụ cười rạng rỡ của mình với một cô gấu mẹ trông có vẻ buồn bã.\nCô gấu sau đó vỡ tan thành từng mảnh,\ntrở thành một đàn bướm xanh lấp lánh cảm ơn cô bé.\n\nMỗi ngày, cô bé đều trải qua những khoảnh khắc bổ ích như vậy."
     },
     "R_Blade": {
-      "name": "Tinh Hoa Phong Mang",
+      "name": "Ngọc Phong Mang",
       "template": "{0} Sắc Bén",
       "description": [
         {
@@ -33182,7 +33182,7 @@
       "memory": null
     },
     "R_Bleak": {
-      "name": "Tinh Hoa U Ám",
+      "name": "Ngọc U Ám",
       "template": "U Ám {0}",
       "description": [
         {
@@ -33284,7 +33284,7 @@
       "memory": null
     },
     "R_Blood": {
-      "name": "Tinh Hoa Huyết Châu",
+      "name": "Ngọc Huyết Châu",
       "template": "Nhuốm Máu {0}",
       "description": [
         {
@@ -33473,7 +33473,7 @@
       "memory": null
     },
     "R_Celestial": {
-      "name": "Tinh Hoa Thiên Cầm",
+      "name": "Ngọc Thiên Cầm",
       "template": "Thiên Cầm {0}",
       "description": [
         {
@@ -33623,7 +33623,7 @@
       "memory": null
     },
     "R_Composure": {
-      "name": "Tinh Hoa Thanh Tĩnh",
+      "name": "Ngọc Thanh Tĩnh",
       "template": "Thanh Tĩnh {0}",
       "description": [
         {
@@ -33694,7 +33694,7 @@
       "memory": null
     },
     "R_Contempt": {
-      "name": "Tinh Hoa Khinh Miệt",
+      "name": "Ngọc Khinh Miệt",
       "template": "{0} Khinh Miệt",
       "description": [
         {
@@ -33765,7 +33765,7 @@
       "memory": "Ngày thứ tư tại Dòng Chảy Mộng Mị.\n\nTa cuối cùng cũng có giây phút dừng chân để hít thở và ghi chép. Cả thân ta vẫn còn đau nhức, hai bàn tay không ngừng run rẩy, nhưng ta phải viết ra điều này.\n\nVài ngày trước, nhờ sự giúp đỡ của Mộng Giác Tông, ta đã đặt chân vào thế giới mang tên Dòng Chảy Mộng Mị này. Thật bất ngờ, khu rừng tràn ngập những điều kỳ bí và diệu kỳ—ánh dương nhảy múa qua kẽ lá, và ta đã có khoảnh khắc ngắn ngủi cảm thấy như lạc vào một câu chuyện cổ tích.\n\nNhưng chẳng mấy chốc ta nhận ra rằng sự bình yên này chỉ là một ảo ảnh mong manh. Đến chiều, sương mù bắt đầu giăng xuống, và ẩn hiện phía sau nó, ta đã thoáng thấy thứ gì đó đang dõi theo bọn ta từ trong màn sương.\n\nNgay cả bây giờ, tay ta vẫn còn run rẩy khi hồi tưởng lại. Đó là một sinh vật khổng lồ, gớm ghiếc với đôi mắt đỏ rực như than hồng, hàm dưới của nó co giật theo một nhịp điệu dị thường. Trong chớp mắt, nó đã đứng ngay trước mặt bọn ta.\n\nMọi thứ sau đó đều mờ ảo. Ta chỉ nhớ mình đã chạy trối chết, phổi như muốn vỡ tung, tiếng thét của các bạn đồng hành, và âm thanh khủng khiếp của da thịt bị xé toạc.\n\n\nTa nghĩ rằng ta đã an toàn, ít nhất là trong lúc này, nhưng ta sẽ không bao giờ quên ánh mắt khinh miệt của nó khi xé xác người ta bằng những móng vuốt dài, tàn độc ấy.\n\n- A."
     },
     "R_Dusk": {
-      "name": "Tinh Hoa Hoàng Hôn",
+      "name": "Ngọc Hoàng Hôn",
       "template": "{0} Hoàng Hôn",
       "description": [
         {
@@ -34064,7 +34064,7 @@
       "memory": null
     },
     "R_Flow": {
-      "name": "Tinh Hoa Luân Chuyển",
+      "name": "Ngọc Luân Chuyển",
       "template": "Luân Chuyển {0}",
       "description": [
         {
@@ -34195,7 +34195,7 @@
       "memory": "Đây quả là một sự thật kỳ lạ và xa lạ. Điều ngươi đã chỉ cho ta là không thể chối cãi, một dấu ấn không thể nhầm lẫn của định mệnh. Xưa kia, ta từng cai quản sự ra đời và tàn lụi của các vì sao, những âm vang hùng vĩ của chúng hoàn toàn cộng hưởng trong ta. Giờ đây, mọi thứ trôi tuột khỏi tầm với, xa vời như những bóng hình trong màn sương.\n\nThế nhưng ý chí của ta vẫn sáng rõ, lấp lánh như sao mai. Ta sẽ tự vẽ nên con đường vận mệnh của mình, và ta sẽ phá vỡ những xiềng xích này.\n\nCho đến hơi thở cuối cùng, ta vẫn sẽ là kẻ dẫn dắt vũ điệu sáng tạo và hủy diệt. Vì ta là chân thần của các vì sao."
     },
     "R_Frost": {
-      "name": "Tinh Hoa Hàn Băng",
+      "name": "Ngọc Hàn Băng",
       "template": "Hàn Băng Tôi Luyện {0}",
       "description": [
         {
@@ -34404,7 +34404,7 @@
       "memory": null
     },
     "R_Glaciate": {
-      "name": "Tinh Hoa Hàn Phong",
+      "name": "Ngọc Hàn Phong",
       "template": "Hàn Phong {0}",
       "description": [
         {
@@ -34471,7 +34471,7 @@
       "memory": null
     },
     "R_Insatiable": {
-      "name": "Tinh Hoa Tham Lam",
+      "name": "Ngọc Tham Lam",
       "template": "Tham Lam {0}",
       "description": [
         {
@@ -34601,7 +34601,7 @@
       "memory": null
     },
     "R_Momentum": {
-      "name": "Tinh Hoa Quán Tính",
+      "name": "Ngọc Quán Tính",
       "template": "{0} Quán Tính",
       "description": [
         {
@@ -34765,7 +34765,7 @@
       "memory": null
     },
     "R_NightSky": {
-      "name": "Tinh Hoa Tinh Không",
+      "name": "Ngọc Tinh Không",
       "template": "{0} Tinh Không",
       "description": [
         {
@@ -34934,7 +34934,7 @@
       "memory": null
     },
     "R_Panic": {
-      "name": "Tinh Hoa Kinh Hoảng",
+      "name": "Ngọc Kinh Hoảng",
       "template": "Kinh Hoảng {0}",
       "description": [
         {
@@ -35064,7 +35064,7 @@
       "memory": null
     },
     "R_Rejuvenation": {
-      "name": "Tinh Hoa Tái Tạo",
+      "name": "Ngọc Tái Tạo",
       "template": "Tái Tạo {0}",
       "description": [
         {
@@ -35254,7 +35254,7 @@
       "memory": "Đâu đó tại một nơi bí mật trong Dòng Chảy,\nmột địa điểm còn được gọi là Vùng Đất Giữa,\nkhông khí tràn ngập tiếng lanh canh của những chiếc ba lô.\n\n\"Tiền bối! Chỉ cần lại gần bức tượng đó, các khớp xương kẽo kẹt của ta trơn tru hẳn và ba lô cảm giác nhẹ tênh! Ngay cả cái vỏ mòn vẹt của ta cũng như lấy lại được vẻ bóng bẩy! Tại sao ta lại cảm thấy trẻ lại thế này?\"\n\nKẻ được gọi là tiền bối chậm rãi chớp những đôi mắt của mình\nvà buông một tiếng thở dài—\nmột dấu hiệu rõ ràng của sự ngán ngẩm trước câu hỏi.\n\n\"Bởi vì Ngài chia sẻ một chút ngày hôm qua của Ngài\ncho ngày hôm nay của chúng ta.\"\n\n\"Ngày hôm qua... của Ngài? Vậy mỗi khi chúng ta nhận được sức mạnh, Người Dẫn Đường của chúng ta... Ngài có lột xác như chúng ta không? Hay vỏ của Ngài sẽ nứt ra?\"\n\nVị tiền bối đập mạnh chiếc càng cứng cáp xuống bàn nghe cái 'CHÁT!'.\n\n\"Hừ, chậc! Cái gã Jonas này não sao biển à?! Thay vì lo lắng chuyện tào lao, thì thắt chặt dây ba lô lại đi! Sức mạnh Ngài ban cho ngươi không phải để đánh bóng cái mai đâu!\"\n\n\n- Trích từ Buổi Họp Mặt Jonas Định Kỳ"
     },
     "R_Ricochet": {
-      "name": "Tinh Hoa Đạn Lệ",
+      "name": "Ngọc Đạn Lệ",
       "template": "Đạn Lệ {0}",
       "description": [
         {
@@ -35405,7 +35405,7 @@
       "memory": null
     },
     "R_Rigidity": {
-      "name": "Tinh Hoa Kiên Cố",
+      "name": "Ngọc Kiên Cố",
       "template": "Kiên Cố {0}",
       "description": [
         {
@@ -35539,7 +35539,7 @@
       "memory": null
     },
     "R_Scorched": {
-      "name": "Tinh Hoa Thiêu Đốt",
+      "name": "Ngọc Thiêu Đốt",
       "template": "Thiêu Đốt {0}",
       "description": [
         {
@@ -35645,7 +35645,7 @@
       "memory": null
     },
     "R_Shock": {
-      "name": "Tinh Hoa Chấn Động",
+      "name": "Ngọc Chấn Động",
       "template": "Chấn Động {0}",
       "description": [
         {
@@ -35854,7 +35854,7 @@
       "memory": null
     },
     "R_Snow": {
-      "name": "Tinh Hoa Bạch Tuyết",
+      "name": "Ngọc Bạch Tuyết",
       "template": "Phủ Tuyết {0}",
       "description": [
         {
@@ -35944,7 +35944,7 @@
       "memory": null
     },
     "R_Spiral": {
-      "name": "Tinh Hoa Loa Toàn",
+      "name": "Ngọc Loa Toàn",
       "template": "{0} Phong Loa",
       "description": [
         {
@@ -35996,7 +35996,7 @@
       "memory": null
     },
     "R_Stillness": {
-      "name": "Tinh Hoa Tĩnh Lặng",
+      "name": "Ngọc Tĩnh Lặng",
       "template": "{0} Băng Giá",
       "description": [
         {
@@ -36166,7 +36166,7 @@
       "memory": null
     },
     "R_Wealth": {
-      "name": "Tinh Hoa Phú Quý",
+      "name": "Ngọc Phú Quý",
       "template": "Phú Quý {0}",
       "description": [
         {
@@ -36217,7 +36217,7 @@
       "memory": "Ngươi biết Hoàng Kim có ý nghĩa đặc biệt đối với \"chúng ta\", phải không？\n\nLà những sinh vật bất toàn, mỗi đêm ta chìm vào giấc ngủ mà không biết liệu mình có thức dậy lần nữa hay không. Để \"chúng ta\" có thể tồn tại, ta cần sự hoàn hảo mà Hoàng Kim mang lại.\n\nThế nhưng ngươi vẫn từ chối sử dụng nó cho chính mình, dù đã biết rõ mọi điều này sao？\nJonas, ngươi quả thật là…"
     },
     "R_Wound": {
-      "name": "Tinh Hoa Thương Tích",
+      "name": "Ngọc Thương Tích",
       "template": "Thương Tích {0}",
       "description": [
         {
@@ -37029,7 +37029,7 @@
         },
         {
           "type": 0,
-          "textData": " Tinh Hoa này. Với mỗi 1% ",
+          "textData": " Ngọc này. Với mỗi 1% ",
           "expressionData": null
         },
         {
@@ -37049,7 +37049,7 @@
         },
         {
           "type": 0,
-          "textData": "của Tinh Hoa này, ngươi ",
+          "textData": "của Ngọc này, ngươi ",
           "expressionData": null
         },
         {
@@ -38260,9 +38260,9 @@
     "Cold": "Hiệu ứng Hàn Khí làm giảm Tốc Độ Tấn Công và Tốc Độ Di Chuyển của kẻ địch.",
     "DamageAmp": "Khi ngươi có nhiều hiệu ứng tăng Sát thương và hồi phục, tất cả chúng đều được áp dụng theo cấp số nhân.",
     "Dark": "Kẻ địch bị ảnh hưởng bởi Ám sẽ nhận thêm 5% Sát thương Ám mỗi cộng dồn.",
-    "EssenceSynergy": "Tinh Hoa được trang bị trong cùng một Ký Ức có thể kích hoạt và tương tác lẫn nhau.\nHãy thử nghiệm để tạo ra những hiệu ứng cộng hưởng mạnh mẽ.",
+    "EssenceSynergy": "Ngọc được trang bị trong cùng một Ký Ức có thể kích hoạt và tương tác lẫn nhau.\nHãy thử nghiệm để tạo ra những hiệu ứng cộng hưởng mạnh mẽ.",
     "Fire": "Ký Ức gây Sát thương Hỏa có cơ hội gây ra các tầng hiệu ứng Hỏa Thiêu lên mục tiêu.\nHiệu ứng Hỏa Thiêu gây Sát thương theo thời gian, với Sát thương tăng lên khi có càng nhiều tầng hiệu ứng được áp dụng.",
-    "FireNoProc": "Sát thương Hỏa theo thời gian không thể kích hoạt Tinh Hoa hay các hiệu ứng khác.",
+    "FireNoProc": "Sát thương Hỏa theo thời gian không thể kích hoạt Ngọc hay các hiệu ứng khác.",
     "HealPotion": "Đánh bại quái vật có cơ hội rơi ra Bình Máu. Cơ hội này tăng lên khi máu của ngươi càng thấp.",
     "Hero_Aurena0": "Món ăn ưa thích của Aurena là cơm lươn.",
     "Hero_Aurena1": "Trước khi bị trục xuất, Aurena có thói quen chiêu mộ những học sinh xuất sắc làm trợ lý nghiên cứu và những đối tượng thí nghiệm bất đắc dĩ.",
@@ -39883,7 +39883,7 @@
         },
         {
           "type": 0,
-          "textData": " một Hồi ức hoặc Tinh hoa, Tốc độ Tấn công của ngươi vĩnh viễn tăng thêm ",
+          "textData": " một Hồi ức hoặc Ngọc, Tốc độ Tấn công của ngươi vĩnh viễn tăng thêm ",
           "expressionData": null
         },
         {
@@ -41221,7 +41221,7 @@
         },
         {
           "type": 0,
-          "textData": " Tinh Hoa. Phẩm chất của nó gia tăng thêm ",
+          "textData": " Ngọc. Phẩm chất của nó gia tăng thêm ",
           "expressionData": null
         },
         {
@@ -41278,7 +41278,7 @@
         },
         {
           "type": 0,
-          "textData": ". Khi hoàn thành, Tinh Hoa này gia tăng Thuật Lực và Sát thương Công kích của Bismut lên ",
+          "textData": ". Khi hoàn thành, Ngọc này gia tăng Thuật Lực và Sát thương Công kích của Bismut lên ",
           "expressionData": null
         },
         {
@@ -41397,7 +41397,7 @@
         },
         {
           "type": 0,
-          "textData": " Tinh Hoa. Ngươi có thể bán Tinh Hoa này cho Thương Nhân để đổi lấy ",
+          "textData": " Ngọc. Ngươi có thể bán Ngọc này cho Thương Nhân để đổi lấy ",
           "expressionData": null
         },
         {
@@ -44236,7 +44236,7 @@
         },
         {
           "type": 0,
-          "textData": " Ký ức hoặc Tinh hoa thêm ",
+          "textData": " Ký ức hoặc Ngọc thêm ",
           "expressionData": null
         },
         {
@@ -44286,7 +44286,7 @@
         },
         {
           "type": 0,
-          "textData": "một Tinh Hoa hoặc Ký Ức, nó sẽ được thay thế bằng một vật phẩm ngẫu nhiên cùng độ hiếm thay vì bị phân tách. Có thể kích hoạt tối đa ",
+          "textData": "một Ngọc hoặc Ký Ức, nó sẽ được thay thế bằng một vật phẩm ngẫu nhiên cùng độ hiếm thay vì bị phân tách. Có thể kích hoạt tối đa ",
           "expressionData": null
         },
         {
@@ -44489,7 +44489,7 @@
         },
         {
           "type": 0,
-          "textData": "cơ hội ban một Tinh Hoa ngẫu nhiên.",
+          "textData": "cơ hội ban một Ngọc ngẫu nhiên.",
           "expressionData": null
         }
       ]
@@ -53136,7 +53136,7 @@
         },
         {
           "type": 0,
-          "textData": " giây, song nó cũng giảm thời gian hồi chiêu của tất cả Tinh Hoa.",
+          "textData": " giây, song nó cũng giảm thời gian hồi chiêu của tất cả Ngọc.",
           "expressionData": null
         }
       ]
