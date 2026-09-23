@@ -5819,7 +5819,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Nhận 1 cộng dồn <color=yellow>Vật chất lạ</color> khi bạn <color=yellow>Thi triển</color> một <color=yellow>Ký ức</color>, tối đa ",
+              "textData": "Nhận 1 cộng dồn <color=yellow>Vật Chất Ngoại Lai</color> khi bạn <color=yellow>Thi Triển</color> một <color=yellow>Ký Ức</color>, tối đa ",
               "expressionData": null
             },
             {
@@ -5838,7 +5838,7 @@
             },
             {
               "type": 0,
-              "textData": " cộng dồn. Thi triển <color=yellow>Kỹ năng né đòn</color> sẽ nhận ",
+              "textData": " cộng dồn. Thi triển <color=yellow>Kỹ Năng Né Tránh</color> sẽ nhận ",
               "expressionData": null
             },
             {
@@ -5857,7 +5857,7 @@
             },
             {
               "type": 0,
-              "textData": " cộng dồn, và thi triển <color=yellow>Ký ức tối thượng</color> sẽ nhận ",
+              "textData": " cộng dồn thay thế, và thi triển <color=yellow>Ký Ức Tối Thượng</color> sẽ nhận ",
               "expressionData": null
             },
             {
@@ -5876,7 +5876,7 @@
             },
             {
               "type": 0,
-              "textData": " cộng dồn. <color=yellow>Đòn đánh thường</color> tiếp theo của bạn sẽ tiêu thụ tất cả cộng dồn để tạo ra một vụ nổ gây ",
+              "textData": " cộng dồn. <color=yellow>Đòn Đánh Cơ Bản</color> tiếp theo của bạn sẽ tiêu hao tất cả cộng dồn để tạo ra một vụ nổ gây ",
               "expressionData": null
             },
             {
@@ -5895,7 +5895,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Sát thương Ánh sáng</color> mỗi cộng dồn lên kẻ địch.\n\nPhạm vi vụ nổ tăng thêm ",
+              "textData": " <color=yellow>Sát Thương Ánh Sáng</color> cho mỗi cộng dồn lên kẻ địch.\n\nKích thước vụ nổ tăng thêm ",
               "expressionData": null
             },
             {
@@ -5914,7 +5914,7 @@
             },
             {
               "type": 0,
-              "textData": " mỗi khi <color=yellow>Vật chất lạ</color> được nâng cấp, tối đa ",
+              "textData": " mỗi khi <color=yellow>Vật Chất Ngoại Lai</color> được nâng cấp, tối đa ",
               "expressionData": null
             },
             {
@@ -5933,7 +5933,7 @@
             },
             {
               "type": 0,
-              "textData": ". (Mức tăng hiện tại: ",
+              "textData": ".",
               "expressionData": null
             },
             {
@@ -5943,7 +5943,31 @@
             },
             {
               "type": 0,
+              "textData": " (Tăng hiện tại: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "Ai_D_ExoticMatter_Projectile::currentScaleAmp"
+                  }
+                ],
+                "format": "P0",
+                "raw": "currentScaleAmp|percent*100"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/ingame",
               "expressionData": null
             }
           ],
@@ -6105,7 +6129,7 @@
             },
             {
               "type": 0,
-              "textData": " giây, <color=yellow>Kỹ năng né đòn</color> của bạn sẽ được thay thế bằng <color=yellow>Lướt Băng</color>. <color=yellow>Lướt Băng</color> lao về phía trước, giúp bạn <color=yellow>Bất tử</color> trong thời gian ngắn và gây ",
+              "textData": " giây, <color=yellow>Kỹ Năng Né Tránh</color> của bạn được thay thế bằng <color=yellow>Lướt Băng</color>. <color=yellow>Lướt Băng</color> lướt về phía trước, giúp bạn <color=yellow>Bất Tử</color> trong thời gian ngắn và gây ",
               "expressionData": null
             },
             {
@@ -6124,7 +6148,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Sát thương Băng</color> lên kẻ địch lân cận. Với mỗi kẻ địch bị trúng <color=yellow>Lướt Băng</color>, <color=yellow>Máu tối đa</color> của Lữ khách sẽ tăng vĩnh viễn thêm ",
+              "textData": " <color=yellow>Sát Thương Băng</color> lên kẻ địch lân cận. Với mỗi kẻ địch bị trúng <color=yellow>Lướt Băng</color>, <color=yellow>Máu Tối Đa</color> của Lữ Khách sẽ tăng vĩnh viễn ",
               "expressionData": null
             },
             {
@@ -6143,17 +6167,41 @@
             },
             {
               "type": 0,
-              "textData": ". \n\n(Máu đã nhận: ",
+              "textData": ". ",
               "expressionData": null
             },
             {
               "type": 2,
-              "textData": "đã trang bị",
+              "textData": "equipped",
               "expressionData": null
             },
             {
               "type": 0,
+              "textData": "\n\n(Máu đã nhận: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "St_D_IceColdPresence::gainedHealth"
+                  }
+                ],
+                "format": "#,##0.#",
+                "raw": "gainedHealth|#,##0.#"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/equipped",
               "expressionData": null
             }
           ],
@@ -6853,7 +6901,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Thay vì nhận thưởng <color=yellow>Tốc độ đánh</color>, <color=yellow>Sát thương vật lý</color> của bạn tăng ",
+              "textData": "Thay vì nhận tiền thưởng <color=yellow>Tốc Độ Đánh</color>, <color=yellow>Sát Thương Đòn Đánh</color> của bạn tăng ",
               "expressionData": null
             },
             {
@@ -6872,7 +6920,7 @@
             },
             {
               "type": 0,
-              "textData": " cho mỗi 1% <color=yellow>Tốc độ đánh cộng thêm</color>.\nSau khi <color=yellow>Lướt</color> hoặc <color=yellow>Dịch chuyển</color>, đòn <color=yellow>đánh thường</color> tiếp theo của bạn sẽ là đòn chí mạng.\n\nTiêu diệt bất kỳ <color=yellow>Boss</color> nào sẽ <color=yellow>hồi phục</color> ",
+              "textData": " cho mỗi 1% <color=yellow>Tốc Độ Đánh Cộng Thêm</color>.\nSau khi <color=yellow>Lướt</color> hoặc <color=yellow>Dịch Chuyển</color>, <color=yellow>Đòn Đánh Cơ Bản</color> tiếp theo của bạn sẽ là một đòn chí mạng.\n\nTiêu diệt bất kỳ <color=yellow>Trùm</color> nào sẽ <color=yellow>hồi phục</color> ",
               "expressionData": null
             },
             {
@@ -6891,17 +6939,41 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Máu</color>.\n\n(Sát thương vật lý nhận được: ",
+              "textData": " <color=yellow>Máu</color>.",
               "expressionData": null
             },
             {
               "type": 2,
-              "textData": "đã trang bị",
+              "textData": "equipped",
               "expressionData": null
             },
             {
               "type": 0,
+              "textData": "\n\n(Sát Thương Đòn Đánh đã nhận: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "St_D_TheKillingFlow::gainedAd"
+                  }
+                ],
+                "format": "#,##0",
+                "raw": "gainedAd"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/equipped",
               "expressionData": null
             }
           ],
@@ -9004,7 +9076,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Vung kiếm về phía trước, gây ",
+              "textData": "Vung lưỡi dao về phía trước, gây ",
               "expressionData": null
             },
             {
@@ -9023,7 +9095,7 @@
             },
             {
               "type": 0,
-              "textData": " sát thương lên kẻ địch và <color=yellow>giảm</color> ",
+              "textData": " sát thương lên kẻ địch và <color=yellow>giảm</color> <color=yellow>Tốc Độ Di Chuyển</color> của chúng đi ",
               "expressionData": null
             },
             {
@@ -9042,7 +9114,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Tốc độ di chuyển</color> của chúng trong ",
+              "textData": " trong ",
               "expressionData": null
             },
             {
@@ -9061,7 +9133,7 @@
             },
             {
               "type": 0,
-              "textData": " giây.\n\nNếu kẻ địch trúng chiêu chết trong vòng ",
+              "textData": " giây.\n\nNếu kẻ địch bị trúng lưỡi dao chết trong vòng ",
               "expressionData": null
             },
             {
@@ -9080,7 +9152,7 @@
             },
             {
               "type": 0,
-              "textData": " giây, chúng sẽ rơi ra <color=yellow>Thịt</color>. Thu thập <color=yellow>Thịt</color> sẽ <color=yellow>hồi</color> ",
+              "textData": " giây, chúng sẽ rơi ra <color=yellow>Thịt</color>. Thu thập <color=yellow>Thịt</color> sẽ <color=yellow>hồi phục</color> ",
               "expressionData": null
             },
             {
@@ -9099,7 +9171,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Máu</color> và tăng vĩnh viễn ",
+              "textData": " <color=yellow>Máu</color> và tăng vĩnh viễn <color=yellow>sát thương</color> của Nhát Chém Đồ Tể thêm ",
               "expressionData": null
             },
             {
@@ -9118,7 +9190,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>sát thương</color> cho Butcher's Strike.\n(Mức tăng hiện tại: ",
+              "textData": ".",
               "expressionData": null
             },
             {
@@ -9128,7 +9200,31 @@
             },
             {
               "type": 0,
+              "textData": "\n(Tăng hiện tại: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "St_L_ButchersStrike::currentDamageAmp"
+                  }
+                ],
+                "format": "P0",
+                "raw": "currentDamageAmp|percent*100"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/ingame",
               "expressionData": null
             }
           ],
@@ -9144,7 +9240,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Ném một <color=yellow>Đồng xu</color> với chi phí ",
+              "textData": "Ném một <color=yellow>Đồng Xu</color> với chi phí ",
               "expressionData": null
             },
             {
@@ -9163,7 +9259,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Vàng</color> hiện có của bạn. <color=yellow>Đồng xu</color> sẽ <color=yellow>phát nổ</color> khi trúng kẻ địch đầu tiên, gây ",
+              "textData": " <color=yellow>Vàng</color> hiện tại của bạn. <color=yellow>Đồng Xu</color> sẽ <color=yellow>phát nổ</color> khi trúng kẻ địch đầu tiên, gây ",
               "expressionData": null
             },
             {
@@ -9182,7 +9278,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>sát thương Ánh sáng</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong ",
+              "textData": " <color=yellow>Sát Thương Ánh Sáng</color> lên kẻ địch và <color=yellow>làm choáng</color> chúng trong ",
               "expressionData": null
             },
             {
@@ -9201,7 +9297,7 @@
             },
             {
               "type": 0,
-              "textData": " giây.\n\nSau vụ nổ, có 50% cơ hội khiến <color=yellow>sát thương vụ nổ</color> tăng gấp đôi vĩnh viễn, nhưng cũng có 50% cơ hội mất tất cả các điểm cộng dồn.\n(Sát thương hiện tại: ",
+              "textData": " giây.\n\nSau vụ nổ, có 50% cơ hội để <color=yellow>sát thương vụ nổ</color> tăng gấp đôi vĩnh viễn, nhưng cũng có 50% cơ hội mất tất cả các mức tăng tích lũy.",
               "expressionData": null
             },
             {
@@ -9211,7 +9307,39 @@
             },
             {
               "type": 0,
+              "textData": "\n(Sát thương hiện tại: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "Ai_L_CoinExplosion_Explosion::dmgFactor"
+                  },
+                  {
+                    "type": 1,
+                    "value": "*"
+                  },
+                  {
+                    "type": 0,
+                    "value": "St_L_CoinExplosion::damageMultiplier"
+                  }
+                ],
+                "format": "#,##0",
+                "raw": "dmgFactor*damageMultiplier"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/ingame",
               "expressionData": null
             }
           ],
@@ -10788,7 +10916,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Bắn một chiếc gai xuyên thấu kích hoạt <color=yellow>Hiệu ứng tấn công</color> và gây ",
+              "textData": "Bắn ra một chiếc gai xuyên thấu kích hoạt <color=yellow>Hiệu Ứng Đòn Đánh</color> và gây ",
               "expressionData": null
             },
             {
@@ -10807,7 +10935,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>Sát thương Hắc ám</color> lên kẻ địch. Đánh dấu kẻ địch cuối cùng bị gai trúng trong tối đa ",
+              "textData": " <color=yellow>Sát Thương Bóng Tối</color> lên kẻ địch. Đánh dấu kẻ địch cuối cùng bị trúng gai trong tối đa ",
               "expressionData": null
             },
             {
@@ -10826,7 +10954,7 @@
             },
             {
               "type": 0,
-              "textData": " giây. Khi bị đánh dấu, <color=yellow>Thi triển lại</color> <color=yellow>Dấu ấn Tử thần</color> để <color=yellow>Dịch chuyển</color> Shell đến vị trí của mục tiêu.\n\nLần đầu tiên chiếc gai trúng kẻ địch trong giao tranh, <color=yellow>Hồi chiêu</color> của nó giảm ",
+              "textData": " giây. Khi bị đánh dấu, <color=yellow>Thi Triển Lại</color> <color=yellow>Dấu Ấn Tử Thần</color> để <color=yellow>Dịch Chuyển</color> Vỏ Bọc đến vị trí mục tiêu.\n\nLần đầu tiên chiếc gai trúng kẻ địch trong chiến đấu, <color=yellow>Thời Gian Hồi Chiêu</color> của nó giảm ",
               "expressionData": null
             },
             {
@@ -10864,17 +10992,41 @@
             },
             {
               "type": 0,
-              "textData": ". Sát thương cộng thêm này sẽ đặt lại mỗi khi bạn di chuyển sang thế giới tiếp theo. (Hiện tại đã tăng ",
+              "textData": ". Sát thương cộng thêm này đặt lại mỗi khi bạn di chuyển sang thế giới tiếp theo.",
               "expressionData": null
             },
             {
               "type": 2,
-              "textData": "trong trò chơi",
+              "textData": "ingame",
               "expressionData": null
             },
             {
               "type": 0,
+              "textData": " (Hiện đã tăng ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "St_Q_DeathMark::currentDamageAmp"
+                  }
+                ],
+                "format": "P0",
+                "raw": "currentDamageAmp|percent*100"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/ingame",
               "expressionData": null
             }
           ],
@@ -16962,7 +17114,7 @@
           "description": [
             {
               "type": 0,
-              "textData": "Trở nên <color=yellow>Bất tử</color> trong giây lát khi đang vận chiêu, sau đó tung ra một tiếng thét mạnh mẽ về phía trước, gây ",
+              "textData": "Trở nên <color=yellow>Bất Khả Xâm Phạm</color> trong chốc lát khi đang vận chiêu, sau đó tung ra một tiếng thét mạnh mẽ về phía trước, gây ",
               "expressionData": null
             },
             {
@@ -16981,7 +17133,7 @@
             },
             {
               "type": 0,
-              "textData": " <color=yellow>sát thương Bóng tối</color> cho tất cả kẻ địch và <color=yellow>làm choáng</color> chúng trong ",
+              "textData": " <color=yellow>Sát Thương Bóng Tối</color> lên tất cả kẻ địch và <color=yellow>làm choáng</color> chúng trong ",
               "expressionData": null
             },
             {
@@ -17000,7 +17152,7 @@
             },
             {
               "type": 0,
-              "textData": " giây.\n\n<color=yellow>Sát thương</color> này tăng thêm ",
+              "textData": " giây.\n\n<color=yellow>Sát thương</color> này tăng ",
               "expressionData": null
             },
             {
@@ -17019,7 +17171,7 @@
             },
             {
               "type": 0,
-              "textData": " cho mỗi <color=yellow>Cấp độ Đe dọa Săn đuổi</color> hiện tại. (Mức tăng hiện tại: ",
+              "textData": " cho mỗi <color=yellow>Cấp Độ Mối Đe Dọa Săn Đuổi</color> hiện tại.",
               "expressionData": null
             },
             {
@@ -17029,7 +17181,31 @@
             },
             {
               "type": 0,
+              "textData": " (Tăng hiện tại: ",
+              "expressionData": null
+            },
+            {
+              "type": 1,
+              "textData": null,
+              "expressionData": {
+                "nodes": [
+                  {
+                    "type": 0,
+                    "value": "Ai_U_ShoutOfOblivion::currentDamageAmp"
+                  }
+                ],
+                "format": "P0",
+                "raw": "currentDamageAmp|percent*100"
+              }
+            },
+            {
+              "type": 0,
               "textData": ")",
+              "expressionData": null
+            },
+            {
+              "type": 2,
+              "textData": "/ingame",
               "expressionData": null
             }
           ],
@@ -17203,7 +17379,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Tăng Tốc Ký ức</color>, giảm <color=yellow>thời gian hồi chiêu</color> đi ",
+          "textData": " <color=yellow>Tăng Tốc Ký Ức</color>, giảm <color=yellow>thời gian hồi chiêu</color> đi ",
           "expressionData": null
         },
         {
@@ -18399,7 +18575,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Tăng ",
+          "textData": "Tăng <color=yellow>Tỷ Lệ Chí Mạng</color> thêm ",
           "expressionData": null
         },
         {
@@ -18418,7 +18594,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Tỉ lệ Chí mạng</color>. Mỗi lần bạn gây chí mạng lên kẻ địch, <color=yellow>Sát thương Chí mạng</color> sẽ tăng ",
+          "textData": ". Mỗi khi bạn gây sát thương chí mạng lên kẻ địch, <color=yellow>Sát Thương Chí Mạng</color> của bạn tăng ",
           "expressionData": null
         },
         {
@@ -18437,7 +18613,7 @@
         },
         {
           "type": 0,
-          "textData": ", cộng dồn tối đa ",
+          "textData": ", tích lũy tối đa ",
           "expressionData": null
         },
         {
@@ -18456,17 +18632,17 @@
         },
         {
           "type": 0,
-          "textData": " lần.\n(<color=yellow>Sát thương Chí mạng</color> tăng ",
+          "textData": ". ",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
-          "textData": "/",
+          "textData": "\n(Sát Thương Chí Mạng đã tăng ",
           "expressionData": null
         },
         {
@@ -18485,7 +18661,31 @@
         },
         {
           "type": 0,
+          "textData": "/",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_E_Domination::critAmpMaxValue"
+              }
+            ],
+            "format": "P0",
+            "raw": "critAmpMaxValue|percent*100"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -18949,7 +19149,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi bạn <color=yellow>tiêu diệt</color> kẻ địch, <color=yellow>hồi chiêu</color> của Ký ức này được <color=yellow>giảm</color> ",
+          "textData": "Khi bạn <color=yellow>tiêu diệt</color> kẻ địch, <color=yellow>hồi chiêu</color> của Ký Ức này được <color=yellow>giảm</color> ",
           "expressionData": null
         },
         {
@@ -18981,7 +19181,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Tăng ",
+          "textData": "Tăng Máu Tối Đa thêm ",
           "expressionData": null
         },
         {
@@ -19000,7 +19200,7 @@
         },
         {
           "type": 0,
-          "textData": " Máu Tối đa. Sát thương của Ký ức này tăng ",
+          "textData": ". Sát thương của Ký Ức này tăng ",
           "expressionData": null
         },
         {
@@ -19019,7 +19219,7 @@
         },
         {
           "type": 0,
-          "textData": " với mỗi ",
+          "textData": " cho mỗi ",
           "expressionData": null
         },
         {
@@ -19038,17 +19238,41 @@
         },
         {
           "type": 0,
-          "textData": " điểm <color=yellow>Máu Tối đa</color> của bạn.\n(Mức tăng hiện tại: ",
+          "textData": " điểm <color=yellow>Máu Tối Đa</color> của bạn.",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": "\n(Tăng hiện tại: ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_E_Might::currentDamageAmp"
+              }
+            ],
+            "format": "P0",
+            "raw": "currentDamageAmp|percent*100"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -19061,7 +19285,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Thi triển</color> Ký ức này sẽ <color=yellow>cường hóa</color> đòn đánh tiếp theo của bạn trong vòng ",
+          "textData": "<color=yellow>Thi triển</color> Ký Ức này sẽ <color=yellow>cường hóa</color> đòn đánh tiếp theo của bạn trong vòng ",
           "expressionData": null
         },
         {
@@ -19118,7 +19342,7 @@
         },
         {
           "type": 0,
-          "textData": " giây <color=yellow>hồi chiêu</color> của Ký ức này.",
+          "textData": " giây <color=yellow>hồi chiêu</color> của Ký Ức này.",
           "expressionData": null
         }
       ],
@@ -19131,7 +19355,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi Ký ức này không trong thời gian <color=yellow>hồi chiêu</color>, nhận điểm cộng dồn <color=yellow>Chung Cuộc</color> mỗi giây, tối đa ",
+          "textData": "Trong khi Ký Ức này không trong thời gian <color=yellow>hồi chiêu</color>, nhận các cộng dồn <color=yellow>Sự Kết Thúc</color> mỗi giây lên đến ",
           "expressionData": null
         },
         {
@@ -19150,7 +19374,7 @@
         },
         {
           "type": 0,
-          "textData": " cộng dồn. Khi có cộng dồn, đòn <color=yellow>thi triển</color> của Ký ức này sẽ được <color=yellow>cường hóa</color>, tăng ",
+          "textData": " cộng dồn. Khi có cộng dồn, <color=yellow>thi triển</color> của Ký Ức này được <color=yellow>cường hóa</color>, tăng <color=yellow>sát thương</color> thêm ",
           "expressionData": null
         },
         {
@@ -19169,17 +19393,17 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>sát thương</color> mỗi cộng dồn. (Hiện tại: ",
+          "textData": " mỗi cộng dồn.",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
-          "textData": "/",
+          "textData": " (Tăng hiện tại: ",
           "expressionData": null
         },
         {
@@ -19202,7 +19426,31 @@
         },
         {
           "type": 0,
+          "textData": "/",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_E_Omega::maxChargeAmount"
+              }
+            ],
+            "format": "P0",
+            "raw": "maxChargeAmount|percent*100"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -19215,7 +19463,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Thi triển</color> Ký ức này giúp giảm ",
+          "textData": "<color=yellow>Thi triển</color> Ký Ức này giúp giảm ",
           "expressionData": null
         },
         {
@@ -19355,7 +19603,7 @@
         },
         {
           "type": 0,
-          "textData": " kẻ địch. Ký ức sẽ <color=yellow>hoàn thiện</color> khi chất lượng đạt ",
+          "textData": " kẻ địch. Ký Ức sẽ <color=yellow>hoàn thiện</color> khi chất lượng đạt ",
           "expressionData": null
         },
         {
@@ -19387,7 +19635,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi <color=yellow>thi triển</color> Ký ức này, <color=yellow>hy sinh</color> ",
+          "textData": "Khi <color=yellow>thi triển</color> Ký Ức này, <color=yellow>hy sinh</color> ",
           "expressionData": null
         },
         {
@@ -19438,7 +19686,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Mọi <color=yellow>sát thương</color> gây ra bởi Ký ức này sẽ gây thêm ",
+          "textData": "Mọi <color=yellow>sát thương</color> gây ra bởi Ký Ức này sẽ gây thêm ",
           "expressionData": null
         },
         {
@@ -19489,7 +19737,7 @@
         },
         {
           "type": 0,
-          "textData": " sát thương lên <color=yellow>Trùm</color> và <color=yellow>Thợ săn</color>. Đánh bại <color=yellow>Thợ săn</color> sẽ rơi ra 1 <color=yellow>Cầu Năng Lượng</color>, trong khi đánh bại <color=yellow>Trùm</color> rơi ra ",
+          "textData": " sát thương lên <color=yellow>Trùm</color> và <color=yellow>Thợ săn</color>. Tiêu diệt một <color=yellow>Thợ săn</color> sẽ rơi ra 1 <color=yellow>Cầu Sức mạnh</color>, trong khi tiêu diệt một <color=yellow>Trùm</color> sẽ rơi ra ",
           "expressionData": null
         },
         {
@@ -19508,7 +19756,7 @@
         },
         {
           "type": 0,
-          "textData": " cầu. Khi thu thập <color=yellow>Cầu Năng Lượng</color>, bạn nhận 1 <color=yellow>Sát thương Vật lý</color>, 1 <color=yellow>Sức mạnh Phép thuật</color>, hoặc ",
+          "textData": ". Khi bạn thu thập một <color=yellow>Cầu Sức mạnh</color>, bạn nhận được 1 <color=yellow>Sát thương Tấn công</color>, 1 <color=yellow>Sức mạnh Kỹ năng</color>, hoặc ",
           "expressionData": null
         },
         {
@@ -19527,7 +19775,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Máu Tối đa</color>.\n(Hiện tại: Sức mạnh Phép thuật +",
+          "textData": " <color=yellow>Máu tối đa</color>.",
           "expressionData": null
         },
         {
@@ -19537,7 +19785,7 @@
         },
         {
           "type": 0,
-          "textData": ", Sát thương Vật lý +",
+          "textData": "\n(Hiện tại: Sức mạnh Kỹ năng +",
           "expressionData": null
         },
         {
@@ -19556,7 +19804,7 @@
         },
         {
           "type": 0,
-          "textData": ", Máu Tối đa +",
+          "textData": ", Sát thương Tấn công +",
           "expressionData": null
         },
         {
@@ -19575,7 +19823,31 @@
         },
         {
           "type": 0,
+          "textData": ", Máu tối đa +",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_E_Predation::boostedHealth"
+              }
+            ],
+            "format": "#,##0",
+            "raw": "boostedHealth"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -19849,7 +20121,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Sát thương của Ký ức này tăng thêm ",
+          "textData": "Sát thương của ký ức này tăng thêm ",
           "expressionData": null
         },
         {
@@ -20053,7 +20325,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Nếu kẻ địch bị bạn gây <color=yellow>Sát thương</color> bằng Ký ức này chết trong vòng ",
+          "textData": "Nếu kẻ địch bị bạn gây <color=yellow>Sát thương</color> bằng ký ức này chết trong vòng ",
           "expressionData": null
         },
         {
@@ -20123,7 +20395,7 @@
         },
         {
           "type": 0,
-          "textData": " cộng dồn. Với mỗi cộng dồn <color=yellow>Đức tin</color>, <color=yellow>sát thương</color> của Ký ức này lên kẻ địch và <color=yellow>hồi máu</color> cho đồng minh tăng ",
+          "textData": " cộng dồn. Với mỗi cộng dồn <color=yellow>Đức tin</color>, <color=yellow>sát thương</color> của Ký ức này lên kẻ địch và <color=yellow>hồi máu</color> cho đồng minh tăng thêm ",
           "expressionData": null
         },
         {
@@ -20142,7 +20414,7 @@
         },
         {
           "type": 0,
-          "textData": ", đồng thời Máu tối đa của bạn tăng ",
+          "textData": ", và Máu tối đa của bạn tăng thêm ",
           "expressionData": null
         },
         {
@@ -20161,7 +20433,7 @@
         },
         {
           "type": 0,
-          "textData": ".\n(Máu ",
+          "textData": ".",
           "expressionData": null
         },
         {
@@ -20171,7 +20443,7 @@
         },
         {
           "type": 0,
-          "textData": "/",
+          "textData": "\n(Máu ",
           "expressionData": null
         },
         {
@@ -20198,7 +20470,7 @@
         },
         {
           "type": 0,
-          "textData": ", sát thương và hồi máu ",
+          "textData": "/",
           "expressionData": null
         },
         {
@@ -20225,7 +20497,7 @@
         },
         {
           "type": 0,
-          "textData": "/",
+          "textData": ", sát thương và hồi máu tăng ",
           "expressionData": null
         },
         {
@@ -20256,7 +20528,39 @@
         },
         {
           "type": 0,
-          "textData": " đã tăng)",
+          "textData": "/",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_L_DivineFaith::maxStacks"
+              },
+              {
+                "type": 1,
+                "value": "*"
+              },
+              {
+                "type": 0,
+                "value": "Gem_L_DivineFaith::dmgAmpPerStack"
+              }
+            ],
+            "format": "0.#%",
+            "raw": "maxStacks*dmgAmpPerStack|0.#%"
+          }
+        },
+        {
+          "type": 0,
+          "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/ingame",
           "expressionData": null
         }
       ],
@@ -20377,7 +20681,7 @@
         },
         {
           "type": 0,
-          "textData": " Vàng của bạn để <color=yellow>cường hóa</color> kỹ năng. <color=yellow>Sát thương</color> và <color=yellow>hồi máu</color> từ <color=yellow>kỹ năng cường hóa</color> tăng ",
+          "textData": " Vàng của bạn để <color=yellow>cường hóa</color> đòn thi triển. <color=yellow>Sát thương</color> và <color=yellow>hồi máu</color> từ <color=yellow>đòn thi triển cường hóa</color> tăng thêm ",
           "expressionData": null
         },
         {
@@ -20396,17 +20700,41 @@
         },
         {
           "type": 0,
-          "textData": " với mỗi 100 Vàng bạn sở hữu.\n(Hiện đang tăng ",
+          "textData": " cho mỗi 100 Vàng bạn có.\n",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": "(Hiện tại tăng ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_L_HeartOfGold::currentAmp"
+              }
+            ],
+            "format": "P0",
+            "raw": "currentAmp|percent*100"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -21128,7 +21456,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Chuyển đổi toàn bộ <color=yellow>Sát thương</color> gây ra bởi Ký ức này thành <color=yellow>Sát thương Bóng tối</color>. Nếu mục tiêu bị Ký ức này tấn công có từ ",
+          "textData": "Chuyển đổi toàn bộ <color=yellow>Sát thương</color> gây ra bởi ký ức này thành <color=yellow>Sát thương Bóng tối</color>. Nếu mục tiêu bị ký ức này tấn công có từ ",
           "expressionData": null
         },
         {
@@ -21625,7 +21953,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi Ký ức này gây <color=yellow>Sát thương</color> lên kẻ địch, <color=yellow>Tốc độ Di chuyển</color> của mục tiêu sẽ bị giảm ",
+          "textData": "Khi ký ức này gây <color=yellow>Sát thương</color> lên kẻ địch, <color=yellow>Tốc độ Di chuyển</color> của mục tiêu sẽ bị giảm ",
           "expressionData": null
         },
         {
@@ -21975,7 +22303,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi Ký ức này gây <color=yellow>Sát thương Băng giá</color>, nó gây thêm lượng sát thương tương đương ",
+          "textData": "Khi Ký ức này gây <color=yellow>sát thương Băng</color>, nó gây <color=yellow>sát thương Băng</color> bằng ",
           "expressionData": null
         },
         {
@@ -21994,7 +22322,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Máu tối đa</color> của bạn và làm <color=yellow>choáng</color> kẻ địch trong chốc lát. Chỉ kích hoạt một lần mỗi ",
+          "textData": " <color=yellow>Máu tối đa</color> của bạn và làm <color=yellow>choáng</color> kẻ địch trong thời gian ngắn. Chỉ có thể kích hoạt mỗi ",
           "expressionData": null
         },
         {
@@ -22013,7 +22341,7 @@
         },
         {
           "type": 0,
-          "textData": " giây trên mỗi kẻ địch. Mỗi lần kích hoạt, vĩnh viễn tăng <color=yellow>Máu tối đa</color> của bạn thêm ",
+          "textData": " giây một lần trên mỗi kẻ địch. Mỗi lần kích hoạt, vĩnh viễn tăng <color=yellow>Máu tối đa</color> của bạn thêm ",
           "expressionData": null
         },
         {
@@ -22032,17 +22360,41 @@
         },
         {
           "type": 0,
-          "textData": ".\n(Tổng máu đã tăng: ",
+          "textData": ".",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": "\n(Máu hiện đã tăng: ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_R_Frost::gainedHp"
+              }
+            ],
+            "format": "#,##0",
+            "raw": "gainedHp"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -22138,7 +22490,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi bạn <color=yellow>thi triển</color> Ký ức này, bạn tỏa ra hào quang gai xung quanh trong ",
+          "textData": "Khi bạn <color=yellow>thi triển</color> ký ức này, bạn tỏa ra hào quang gai xung quanh trong ",
           "expressionData": null
         },
         {
@@ -23000,7 +23352,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Mỗi đòn <color=yellow>đánh thường</color> thứ 4 sẽ được <color=yellow>cường hóa</color>, phóng ra tia <color=yellow>Sét</color> nảy giữa các kẻ địch, gây ",
+          "textData": "Mỗi đòn <color=yellow>tấn công cơ bản</color> thứ 4 sẽ được <color=yellow>cường hóa</color>, giải phóng <color=yellow>Sét</color> nảy giữa các kẻ địch, gây ",
           "expressionData": null
         },
         {
@@ -23019,7 +23371,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>sát thương Quang</color> tối đa ",
+          "textData": " <color=yellow>sát thương Sét</color> tối đa ",
           "expressionData": null
         },
         {
@@ -23057,17 +23409,41 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Tỷ lệ Chí mạng</color>, số lần đánh tối đa sẽ tăng thêm 1. (Số lần đánh tối đa hiện tại: ",
+          "textData": " <color=yellow>Tỷ lệ Chí mạng</color>, số lần đánh tối đa tăng thêm 1.",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "ngươi đang trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": " (Số lần đánh tối đa hiện tại: ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_R_Shock::currentHitCount"
+              }
+            ],
+            "format": "#,##0",
+            "raw": "currentHitCount"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -23118,17 +23494,41 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>sát thương</color> dựa trên lượng <color=yellow>Tốc độ Di chuyển</color> cộng thêm của bạn.\n(Hiện đang tăng thêm ",
+          "textData": " <color=yellow>Sát thương</color> dựa trên <color=yellow>Tốc độ Di chuyển</color> cộng thêm của bạn.",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "đã trang bị",
+          "textData": "equipped",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": "\n(Hiện tại tăng ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Gem_R_Slippery::CurrentDamageAmp"
+              }
+            ],
+            "format": "P0",
+            "raw": "CurrentDamageAmp|percent*100"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/equipped",
           "expressionData": null
         }
       ],
@@ -23262,7 +23662,7 @@
         },
         {
           "type": 0,
-          "textData": " giây, <color=yellow>Thi triển</color> của Ký ức này sẽ được <color=yellow>Cường hóa</color>. Khi <color=yellow>Thi triển Cường hóa</color>, phát ra ánh sáng gây ",
+          "textData": " giây, <color=yellow>Thi triển</color> của ký ức này sẽ được <color=yellow>Cường hóa</color>. Khi <color=yellow>Thi triển Cường hóa</color>, phát ra ánh sáng gây ",
           "expressionData": null
         },
         {
@@ -23313,7 +23713,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi kẻ địch bị Ký ức này gây sát thương bị tiêu diệt trong vòng ",
+          "textData": "Khi kẻ địch bị ký ức này gây sát thương bị tiêu diệt trong vòng ",
           "expressionData": null
         },
         {
@@ -23364,7 +23764,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi Ký ức này gây sát thương lên kẻ địch, nó sẽ áp dụng một <color=yellow>Ấn ký</color>. Mỗi đòn <color=yellow>tấn công</color> vào <color=yellow>Ấn ký</color> gây ",
+          "textData": "Khi ký ức này gây sát thương lên kẻ địch, nó sẽ áp dụng một <color=yellow>Ấn ký</color>. Mỗi đòn <color=yellow>tấn công</color> vào <color=yellow>Ấn ký</color> gây ",
           "expressionData": null
         },
         {
@@ -23434,7 +23834,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Gây <color=yellow>sát thương Hỏa</color> lên kẻ địch bằng Ký ức này sẽ áp đặt nguyền rủa <color=yellow>Lửa Vĩnh Cửu</color> trong ",
+          "textData": "Gây <color=yellow>sát thương Hỏa</color> lên kẻ địch bằng ký ức này sẽ áp đặt nguyền rủa <color=yellow>Lửa Vĩnh Cửu</color> trong ",
           "expressionData": null
         },
         {
@@ -23453,7 +23853,7 @@
         },
         {
           "type": 0,
-          "textData": " giây. Khi chịu ảnh hưởng của <color=yellow>Lửa Vĩnh Cửu</color>, <color=yellow>mọi sát thương</color> bạn gây ra đều áp dụng 1 cộng dồn <color=yellow>Thiêu đốt</color> lên mục tiêu.\nToàn bộ sát thương từ Ký ức này tăng thêm ",
+          "textData": " giây. Khi chịu ảnh hưởng của <color=yellow>Lửa Vĩnh Cửu</color>, <color=yellow>mọi sát thương</color> bạn gây ra đều áp dụng 1 cộng dồn <color=yellow>Thiêu đốt</color> lên mục tiêu.\nToàn bộ sát thương từ ký ức này tăng thêm ",
           "expressionData": null
         },
         {
@@ -23504,7 +23904,7 @@
         },
         {
           "type": 0,
-          "textData": " giây, gây <color=yellow>sát thương</color> bằng Ký ức này sẽ <color=yellow>hồi phục</color> ",
+          "textData": " giây, gây <color=yellow>sát thương</color> bằng ký ức này sẽ <color=yellow>hồi phục</color> ",
           "expressionData": null
         },
         {
@@ -23619,7 +24019,7 @@
         },
         {
           "type": 0,
-          "textData": " giây, chiêu thức của Ký ức này sẽ được <color=yellow>Cường Hóa</color>. Khi thi triển <color=yellow>Chiêu Thức Cường Hóa</color>, tạo ra một hố đen tại vị trí thi triển gây ",
+          "textData": " giây, chiêu thức của Ký Ức này sẽ được <color=yellow>Cường Hóa</color>. Khi thi triển <color=yellow>Chiêu Thức Cường Hóa</color>, tạo ra một hố đen tại vị trí thi triển gây ",
           "expressionData": null
         },
         {
@@ -23665,7 +24065,7 @@
         },
         {
           "type": 0,
-          "textData": " giây. \nNếu đây không phải là Ký ức chọn vị trí thi triển, hố đen sẽ được tạo ra tại kẻ địch gần nhất theo hướng bạn đang đối mặt.",
+          "textData": " giây. \nNếu đây không phải là Ký Ức chọn vị trí thi triển, hố đen sẽ được tạo ra tại kẻ địch gần nhất theo hướng bạn đang đối mặt.",
           "expressionData": null
         }
       ],
@@ -25165,7 +25565,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Phản Ứng Dây Chuyền</color> trở thành một Ký ức có thể tích tụ bằng cách giữ phím kích hoạt. Bạn có thể tích tụ trong tối đa ",
+          "textData": "<color=yellow>Phản Ứng Dây Chuyền</color> trở thành một Ký Ức có thể tích tụ bằng cách giữ phím kích hoạt. Bạn có thể tích tụ trong tối đa ",
           "expressionData": null
         },
         {
@@ -26086,7 +26486,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Mỗi khi bạn <color=yellow>phân tách</color> một Ký ức hoặc Tinh Hoa, Tốc Độ Tấn Công tăng vĩnh viễn ",
+          "textData": "Mỗi khi bạn <color=yellow>phân tách</color> một Ký Ức hoặc Tinh Hoa, Tốc Độ Tấn Công tăng vĩnh viễn ",
           "expressionData": null
         },
         {
@@ -26200,7 +26600,7 @@
         },
         {
           "type": 0,
-          "textData": "</color>.\nNếu Bismuth không có nhiều bản sao của cùng một Ký ức Lữ Khách, lượng Tốc Độ Tấn Công nhận được sẽ tăng thêm ",
+          "textData": "</color>.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Lữ Khách, lượng Tốc Độ Tấn Công nhận được sẽ tăng thêm ",
           "expressionData": null
         },
         {
@@ -26870,7 +27270,7 @@
         },
         {
           "type": 0,
-          "textData": " giây.\nNếu Bismuth không có nhiều bản sao của cùng một Ký ức Lữ Hành, lượng Lá Chắn nhận được sẽ tăng thêm ",
+          "textData": " giây.\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Lữ Hành, lượng Lá Chắn nhận được sẽ tăng thêm ",
           "expressionData": null
         },
         {
@@ -26900,7 +27300,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Tăng lượng Bụi Mộng nhận được khi <color=yellow>phân tách</color> <color=yellow>Ký ức</color> thêm ",
+          "textData": "Tăng lượng Bụi Mộng nhận được khi <color=yellow>phân tách</color> <color=yellow>Ký Ức</color> thêm ",
           "expressionData": null
         },
         {
@@ -26987,7 +27387,7 @@
         },
         {
           "type": 0,
-          "textData": ".\nNếu Bismuth không có nhiều bản sao của cùng một Ký ức Lữ Hành, lượng chỉ số nhận được sẽ tăng thêm ",
+          "textData": ".\nNếu Bismuth không có nhiều bản sao của cùng một Ký Ức Lữ Hành, lượng chỉ số nhận được sẽ tăng thêm ",
           "expressionData": null
         },
         {
@@ -28095,7 +28495,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Giá của <color=yellow>Ký ức Băng</color> và <color=yellow>Tinh Hoa Băng</color> do Jonas bán giảm ",
+          "textData": "Giá của <color=yellow>Ký Ức Băng</color> và <color=yellow>Tinh Hoa Băng</color> do Jonas bán giảm ",
           "expressionData": null
         },
         {
@@ -28114,7 +28514,7 @@
         },
         {
           "type": 0,
-          "textData": ", nhưng giá của <color=yellow>Ký ức Hỏa</color> và <color=yellow>Tinh Hoa Hỏa</color> tăng ",
+          "textData": ", nhưng giá của <color=yellow>Ký Ức Hỏa</color> và <color=yellow>Tinh Hoa Hỏa</color> tăng ",
           "expressionData": null
         },
         {
@@ -28144,7 +28544,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Nhận ngẫu nhiên 1 <color=yellow>Ký ức Băng</color> cấp ",
+          "textData": "Nhận ngẫu nhiên 1 <color=yellow>Ký Ức Băng</color> cấp ",
           "expressionData": null
         },
         {
@@ -29432,11 +29832,11 @@
             "nodes": [
               {
                 "type": 0,
-                "value": "Se_Star_Husk_D_DamageAmpOnLowHpTarget::healthThreshold"
+                "value": "Se_Star_Husk_D_DamageAmpOnLowHpTarget::damageAmp"
               }
             ],
             "format": "P0",
-            "raw": "healthThreshold|percent*100"
+            "raw": "damageAmp|percent*100"
           }
         },
         {
@@ -29451,11 +29851,11 @@
             "nodes": [
               {
                 "type": 0,
-                "value": "Se_Star_Husk_D_DamageAmpOnLowHpTarget::damageAmp"
+                "value": "Se_Star_Husk_D_DamageAmpOnLowHpTarget::healthThreshold"
               }
             ],
             "format": "P0",
-            "raw": "damageAmp|percent*100"
+            "raw": "healthThreshold|percent*100"
           }
         },
         {
@@ -29743,7 +30143,7 @@
         },
         {
           "type": 0,
-          "textData": " sát thương <color=yellow>Kiếm Khí</color> và ",
+          "textData": " sát thương <color=yellow>Năng lượng Kiếm</color> của <color=yellow>Thế Hủy diệt</color> và giảm ",
           "expressionData": null
         },
         {
@@ -29762,7 +30162,7 @@
         },
         {
           "type": 0,
-          "textData": " phạm vi của <color=yellow>Thế Hủy Diệt</color>. Trong thời gian duy trì <color=yellow>Thế Hủy Diệt</color>, <color=yellow>Hồi chiêu Ký ức</color> của <color=yellow>kỹ năng Né tránh</color> tăng ",
+          "textData": " phạm vi của nó. Trong khi ở <color=yellow>Thế Hủy diệt</color>, <color=yellow>Tốc độ Ký ức</color> của <color=yellow>kỹ năng Né tránh</color> tăng ",
           "expressionData": null
         },
         {
@@ -29781,7 +30181,7 @@
         },
         {
           "type": 0,
-          "textData": " và <color=yellow>Số lần sạc tối đa</color> tăng ",
+          "textData": " và <color=yellow>Số lần dùng tối đa</color> tăng ",
           "expressionData": null
         },
         {
@@ -29800,7 +30200,7 @@
         },
         {
           "type": 0,
-          "textData": ". Phần thưởng Hồi chiêu Ký ức này tăng vĩnh viễn ",
+          "textData": ". Phần thưởng Tốc độ Ký ức này tăng vĩnh viễn ",
           "expressionData": null
         },
         {
@@ -29819,17 +30219,49 @@
         },
         {
           "type": 0,
-          "textData": " mỗi khi bạn tiêu diệt bất kỳ Boss nào. (Điểm thưởng Hồi chiêu Ký ức hiện tại: ",
+          "textData": " mỗi khi bạn tiêu diệt bất kỳ trùm nào.",
           "expressionData": null
         },
         {
           "type": 2,
-          "textData": "trong game",
+          "textData": "ingame",
           "expressionData": null
         },
         {
           "type": 0,
+          "textData": " (Phần thưởng Tốc độ Ký ức hiện tại: ",
+          "expressionData": null
+        },
+        {
+          "type": 1,
+          "textData": null,
+          "expressionData": {
+            "nodes": [
+              {
+                "type": 0,
+                "value": "Se_Star_Husk_F_AS_NoShockwaveFasterAttack::bonusHaste"
+              },
+              {
+                "type": 1,
+                "value": "+"
+              },
+              {
+                "type": 0,
+                "value": "Se_Star_Husk_F_AS_NoShockwaveFasterAttack::dodgeMemoryHaste"
+              }
+            ],
+            "format": "#,##0",
+            "raw": "bonusHaste+dodgeMemoryHaste"
+          }
+        },
+        {
+          "type": 0,
           "textData": ")",
+          "expressionData": null
+        },
+        {
+          "type": 2,
+          "textData": "/ingame",
           "expressionData": null
         }
       ]
@@ -30183,7 +30615,7 @@
         },
         {
           "type": 0,
-          "textData": ". Dạng Xanh của <color=yellow>Laceration</color> trở thành một Ký ức có thể tích tụ bằng cách giữ phím thi triển. Thả phím sớm sẽ kết thúc trạng thái <color=yellow>Bất Tử</color> ngay lập tức và vung kiếm tấn công. Thời gian tích tụ càng lâu, phạm vi ảnh hưởng càng lớn, tối đa lên tới ",
+          "textData": ". Dạng Xanh của <color=yellow>Laceration</color> trở thành một Ký Ức có thể tích tụ bằng cách giữ phím thi triển. Thả phím sớm sẽ kết thúc trạng thái <color=yellow>Bất Tử</color> ngay lập tức và vung kiếm tấn công. Thời gian tích tụ càng lâu, phạm vi ảnh hưởng càng lớn, tối đa lên tới ",
           "expressionData": null
         },
         {
@@ -31251,7 +31683,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Nhận một <color=yellow>Ký ức</color> cấp ",
+          "textData": "Nhận một <color=yellow>Ký Ức</color> cấp ",
           "expressionData": null
         },
         {
@@ -33616,7 +34048,7 @@
         },
         {
           "type": 0,
-          "textData": ". Tuy nhiên, nó trở thành một Ký ức Thông Thường với ",
+          "textData": ". Tuy nhiên, nó trở thành một Ký Ức Thông Thường với ",
           "expressionData": null
         },
         {
@@ -36601,7 +37033,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Tăng Tốc Ký ức</color>.",
+          "textData": " <color=yellow>Tăng Tốc Ký Ức</color>.",
           "expressionData": null
         }
       ]
@@ -36664,7 +37096,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Số lượng thiên thạch có thể rơi xuống từ <color=yellow>Đại Hồng Thủy</color> tăng thêm 1 cho mỗi Ký ức Ánh Sáng khác mà Yubar sở hữu.",
+          "textData": "Số lượng thiên thạch có thể rơi xuống từ <color=yellow>Đại Hồng Thủy</color> tăng thêm 1 cho mỗi Ký Ức Ánh Sáng khác mà Yubar sở hữu.",
           "expressionData": null
         }
       ]
