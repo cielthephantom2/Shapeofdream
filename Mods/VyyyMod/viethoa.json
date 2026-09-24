@@ -22781,7 +22781,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Tăng <color=yellow>Tốc độ bộ nhớ</color> của bộ nhớ này lên ",
+          "textData": "Tăng <color=yellow>Tốc độ Ký ức</color> của Ký ức này lên ",
           "expressionData": null
         },
         {
@@ -22832,7 +22832,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Mỗi khi bạn <color=yellow>tấn công</color> kẻ địch, <color=yellow>thời gian hồi chiêu</color> của bộ nhớ này sẽ được <color=yellow>giảm</color> đi ",
+          "textData": "Mỗi khi bạn <color=yellow>tấn công</color> kẻ địch, <color=yellow>thời gian hồi chiêu</color> của Ký ức này sẽ được <color=yellow>giảm</color> đi ",
           "expressionData": null
         },
         {
@@ -22864,7 +22864,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi <color=yellow>đánh trúng</color>, bộ nhớ này có ",
+          "textData": "Khi <color=yellow>đánh trúng</color>, Ký ức này có ",
           "expressionData": null
         },
         {
@@ -22896,7 +22896,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Mỗi khi bộ nhớ này <color=yellow>đánh trúng</color> kẻ địch, <color=yellow>Tốc độ tấn công</color> của bạn tăng ",
+          "textData": "Mỗi khi Ký ức này <color=yellow>đánh trúng</color> kẻ địch, <color=yellow>Tốc độ tấn công</color> của bạn tăng ",
           "expressionData": null
         },
         {
@@ -22985,7 +22985,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi chịu <color=yellow>sát thương</color>, bộ nhớ này nhận ",
+          "textData": "Khi chịu <color=yellow>sát thương</color>, Ký ức này nhận ",
           "expressionData": null
         },
         {
@@ -23004,7 +23004,7 @@
         },
         {
           "type": 0,
-          "textData": " <color=yellow>Tốc độ bộ nhớ</color> và <color=yellow>Tốc độ di chuyển</color> của bạn tăng ",
+          "textData": " <color=yellow>Tốc độ Ký ức</color> và <color=yellow>Tốc độ di chuyển</color> của bạn tăng ",
           "expressionData": null
         },
         {
@@ -23055,7 +23055,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Thi triển</color> bộ nhớ này sẽ xóa bỏ mọi <color=yellow>Hiệu ứng nguyên tố</color> đang tác động lên Lữ khách. <color=yellow>Hồi</color> ",
+          "textData": "<color=yellow>Thi triển</color> Ký ức này sẽ xóa bỏ mọi <color=yellow>Hiệu ứng nguyên tố</color> đang tác động lên Lữ khách. <color=yellow>Hồi</color> ",
           "expressionData": null
         },
         {
@@ -23125,7 +23125,7 @@
         },
         {
           "type": 0,
-          "textData": " giây, <color=yellow>đòn thi triển</color> của bộ nhớ này sẽ được <color=yellow>cường hóa</color>. Trong ",
+          "textData": " giây, <color=yellow>đòn thi triển</color> của Ký ức này sẽ được <color=yellow>cường hóa</color>. Trong ",
           "expressionData": null
         },
         {
@@ -23176,7 +23176,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Sát thương</color> hoặc <color=yellow>hồi máu</color> từ bộ nhớ này có ",
+          "textData": "<color=yellow>Sát thương</color> hoặc <color=yellow>hồi máu</color> từ Ký ức này có ",
           "expressionData": null
         },
         {
@@ -23227,7 +23227,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "Khi bộ nhớ này <color=yellow>đánh trúng</color> kẻ địch, nhận một <color=yellow>Lá chắn</color> bằng ",
+          "textData": "Khi Ký ức này <color=yellow>đánh trúng</color> kẻ địch, nhận một <color=yellow>Lá chắn</color> bằng ",
           "expressionData": null
         },
         {
@@ -23301,7 +23301,7 @@
       "description": [
         {
           "type": 0,
-          "textData": "<color=yellow>Thi triển</color> bộ nhớ này sẽ phóng ra ",
+          "textData": "<color=yellow>Thi triển</color> Ký ức này sẽ phóng ra ",
           "expressionData": null
         },
         {
