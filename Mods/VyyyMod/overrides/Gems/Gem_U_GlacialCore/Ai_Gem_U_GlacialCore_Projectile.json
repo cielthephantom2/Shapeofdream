@@ -1,0 +1,26 @@
+﻿[
+  {
+    "target": "Ai_Gem_U_GlacialCore_Projectile",
+    "overrides": {
+      "use3DVelocity": "false",
+      "_initialSpeed": "25",
+      "_targetSpeed": "25",
+      "_acceleration": "0",
+      "enableRandomCurve": "true",
+      "randomCurveMagnitude": "1",
+      "ensurePositiveY": "true",
+      "endDistance": "8",
+      "startInFrontDistance": "0.5",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0.25",
+      "canCollideMidFlight": "false",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false"
+    }
+  }
+]

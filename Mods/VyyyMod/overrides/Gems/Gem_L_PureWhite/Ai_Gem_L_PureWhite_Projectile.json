@@ -1,0 +1,38 @@
+﻿[
+  {
+    "target": "Ai_Gem_L_PureWhite_Projectile",
+    "overrides": {
+      "procCoefficient": "0.2",
+      "deviateMag": "3",
+      "use3DVelocity": "false",
+      "_initialSpeed": "20",
+      "_targetSpeed": "20",
+      "_acceleration": "0",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "8",
+      "startInFrontDistance": "0.5",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0.25",
+      "canCollideMidFlight": "false",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "damageMultiplier.leveling": "2",
+      "damageMultiplier.scalingMultiplier": "1",
+      "damageMultiplier.baseValue": "0.1",
+      "damageMultiplier.adFactor": "0",
+      "damageMultiplier.apFactor": "0",
+      "damageMultiplier.lvlFactor": "0",
+      "damageMultiplier.armorFactor": "0",
+      "damageMultiplier.addedHpFactor": "0",
+      "damageMultiplier.critPercentageFactor": "0",
+      "damageMultiplier.valueString": "0.1"
+    }
+  }
+]

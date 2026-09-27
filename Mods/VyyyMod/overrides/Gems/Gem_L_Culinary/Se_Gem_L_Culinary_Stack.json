@@ -1,0 +1,20 @@
+﻿[
+  {
+    "target": "Se_Gem_L_Culinary_Stack",
+    "overrides": {
+      "maxStack": "999999",
+      "killOnZeroStack": "true",
+      "autoDecay": "false",
+      "decayTime": "5",
+      "decayAllAtOnce": "true",
+      "decayCount": "1",
+      "resetTimerOnStackChange": "true",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "true"
+    }
+  }
+]

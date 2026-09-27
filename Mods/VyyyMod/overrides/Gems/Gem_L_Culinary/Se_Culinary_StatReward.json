@@ -1,0 +1,13 @@
+﻿[
+  {
+    "target": "Se_Culinary_StatReward",
+    "overrides": {
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false"
+    }
+  }
+]
