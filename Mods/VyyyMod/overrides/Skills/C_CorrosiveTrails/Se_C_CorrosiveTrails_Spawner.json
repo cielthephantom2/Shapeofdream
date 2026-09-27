@@ -1,0 +1,25 @@
+﻿[
+  {
+    "target": "Se_C_CorrosiveTrails_Spawner",
+    "overrides": {
+      "duration": "8",
+      "minDistanceBetweenInstances": "1.8",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "speedAmount.leveling": "0",
+      "speedAmount.scalingMultiplier": "1",
+      "speedAmount.baseValue": "12",
+      "speedAmount.adFactor": "0",
+      "speedAmount.apFactor": "0",
+      "speedAmount.lvlFactor": "3",
+      "speedAmount.armorFactor": "0",
+      "speedAmount.addedHpFactor": "0",
+      "speedAmount.critPercentageFactor": "0",
+      "speedAmount.valueString": "12 3x"
+    }
+  }
+]

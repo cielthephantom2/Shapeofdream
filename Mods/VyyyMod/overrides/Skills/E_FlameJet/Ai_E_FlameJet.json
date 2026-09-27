@@ -1,0 +1,13 @@
+﻿[
+  {
+    "target": "Ai_E_FlameJet",
+    "overrides": {
+      "spawns": "30",
+      "spawnInterval": "0.125",
+      "rotateSpeed": "70",
+      "selfSlowAmount": "40",
+      "cancelable": "true",
+      "uncancellableTime": "0.5"
+    }
+  }
+]

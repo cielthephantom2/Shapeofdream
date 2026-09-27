@@ -1,0 +1,20 @@
+﻿[
+  {
+    "target": "Se_Star_Mist_F_LG_ChainAttack",
+    "overrides": {
+      "addedCooldown": "1.5",
+      "windowDuration": "3",
+      "searchRadius": "8",
+      "stabCount": "5",
+      "requiredLevel": "35",
+      "maxStarLevel": "1",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "price.0": "140"
+    }
+  }
+]

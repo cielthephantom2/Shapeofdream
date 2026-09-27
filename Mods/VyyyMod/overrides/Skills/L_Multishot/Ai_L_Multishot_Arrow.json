@@ -1,0 +1,38 @@
+﻿[
+  {
+    "target": "Ai_L_Multishot_Arrow",
+    "overrides": {
+      "procCoefficient": "0.25",
+      "deviateMag": "2",
+      "use3DVelocity": "false",
+      "_initialSpeed": "15",
+      "_targetSpeed": "15",
+      "_acceleration": "0",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "8",
+      "startInFrontDistance": "0",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0",
+      "canCollideMidFlight": "false",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "arrowDamage.leveling": "1",
+      "arrowDamage.scalingMultiplier": "1",
+      "arrowDamage.baseValue": "0",
+      "arrowDamage.adFactor": "0.35",
+      "arrowDamage.apFactor": "0.",
+      "arrowDamage.lvlFactor": "0",
+      "arrowDamage.armorFactor": "0",
+      "arrowDamage.addedHpFactor": "0",
+      "arrowDamage.critPercentageFactor": "0",
+      "arrowDamage.valueString": "0.35ad"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "target": "Se_L_MentalCorruption",
+    "overrides": {
+      "tickInterval": "0.25",
+      "tickProcCoefficient": "0.5",
+      "maxStack": "999",
+      "killOnZeroStack": "true",
+      "autoDecay": "false",
+      "decayTime": "5",
+      "decayAllAtOnce": "true",
+      "decayCount": "1",
+      "resetTimerOnStackChange": "true",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "tickDamageAmount.leveling": "1",
+      "tickDamageAmount.scalingMultiplier": "1",
+      "tickDamageAmount.baseValue": "0",
+      "tickDamageAmount.adFactor": "0",
+      "tickDamageAmount.apFactor": "0.6",
+      "tickDamageAmount.lvlFactor": "0",
+      "tickDamageAmount.armorFactor": "0",
+      "tickDamageAmount.addedHpFactor": "0",
+      "tickDamageAmount.critPercentageFactor": "0",
+      "tickDamageAmount.valueString": "0.6ap"
+    }
+  }
+]

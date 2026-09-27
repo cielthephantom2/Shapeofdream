@@ -1,0 +1,38 @@
+﻿[
+  {
+    "target": "Ai_Q_DeathMark_Projectile",
+    "overrides": {
+      "damageAmpGainOnFirstHit": "0.05",
+      "firstHitCooldownReductionRatio": "0.5",
+      "use3DVelocity": "false",
+      "_initialSpeed": "130",
+      "_targetSpeed": "130",
+      "_acceleration": "0",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "17",
+      "startInFrontDistance": "0.5",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0.5",
+      "canCollideMidFlight": "true",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "damage.leveling": "1",
+      "damage.scalingMultiplier": "1",
+      "damage.baseValue": "0",
+      "damage.adFactor": "3.4",
+      "damage.apFactor": "0",
+      "damage.lvlFactor": "0",
+      "damage.armorFactor": "0",
+      "damage.addedHpFactor": "0",
+      "damage.critPercentageFactor": "0",
+      "damage.valueString": "3.4ad"
+    }
+  }
+]

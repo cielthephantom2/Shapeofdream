@@ -1,0 +1,13 @@
+﻿[
+  {
+    "target": "Se_CorruptedChaos_BasicContainer",
+    "overrides": {
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+﻿[
+  {
+    "target": "Ai_C_CorrosiveTrails_Gas",
+    "overrides": {
+      "lingerDuration": "8",
+      "tickInterval": "0.2"
+    }
+  }
+]

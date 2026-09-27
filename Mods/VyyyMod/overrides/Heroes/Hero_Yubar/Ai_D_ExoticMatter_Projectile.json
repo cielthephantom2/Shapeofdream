@@ -1,0 +1,39 @@
+﻿[
+  {
+    "target": "Ai_D_ExoticMatter_Projectile",
+    "overrides": {
+      "procCoefficient": "0.6",
+      "scaleAmpPerUpgrade": "0.1",
+      "scaleAmpMax": "2",
+      "use3DVelocity": "false",
+      "_initialSpeed": "200",
+      "_targetSpeed": "200",
+      "_acceleration": "0",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "8",
+      "startInFrontDistance": "0.5",
+      "endsWithSameHeight": "false",
+      "customEndHeight": "0.5",
+      "destroyOnComplete": "false",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0",
+      "canCollideMidFlight": "false",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "damagePerStack.leveling": "1",
+      "damagePerStack.scalingMultiplier": "1",
+      "damagePerStack.baseValue": "0",
+      "damagePerStack.adFactor": "0",
+      "damagePerStack.apFactor": "1.1",
+      "damagePerStack.lvlFactor": "0",
+      "damagePerStack.armorFactor": "0",
+      "damagePerStack.addedHpFactor": "0",
+      "damagePerStack.critPercentageFactor": "0",
+      "damagePerStack.valueString": "1.1ap"
+    }
+  }
+]

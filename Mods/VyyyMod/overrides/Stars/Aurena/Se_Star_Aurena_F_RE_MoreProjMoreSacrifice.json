@@ -1,0 +1,18 @@
+﻿[
+  {
+    "target": "Se_Star_Aurena_F_RE_MoreProjMoreSacrifice",
+    "overrides": {
+      "addedProj": "3",
+      "newSacrificeHpRatio": "0.15",
+      "requiredLevel": "5",
+      "maxStarLevel": "1",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "price.0": "80"
+    }
+  }
+]

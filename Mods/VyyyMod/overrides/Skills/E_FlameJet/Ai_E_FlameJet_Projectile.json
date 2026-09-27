@@ -1,0 +1,38 @@
+﻿[
+  {
+    "target": "Ai_E_FlameJet_Projectile",
+    "overrides": {
+      "procCoefficient": "0.375",
+      "minHitInterval": "0.125",
+      "use3DVelocity": "false",
+      "_initialSpeed": "40",
+      "_targetSpeed": "5",
+      "_acceleration": "100",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "10",
+      "startInFrontDistance": "1.2",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "1.35",
+      "canCollideMidFlight": "true",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "damage.leveling": "1",
+      "damage.scalingMultiplier": "1",
+      "damage.baseValue": "0",
+      "damage.adFactor": "0",
+      "damage.apFactor": "0.42",
+      "damage.lvlFactor": "0",
+      "damage.armorFactor": "0",
+      "damage.addedHpFactor": "0",
+      "damage.critPercentageFactor": "0",
+      "damage.valueString": "0.42ap"
+    }
+  }
+]

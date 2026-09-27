@@ -1,0 +1,13 @@
+﻿[
+  {
+    "target": "Se_L_SmallMoltenCore_EmpowerAtk",
+    "overrides": {
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false"
+    }
+  }
+]

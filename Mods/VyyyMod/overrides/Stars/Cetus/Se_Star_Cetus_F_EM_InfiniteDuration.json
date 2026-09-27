@@ -1,0 +1,18 @@
+﻿[
+  {
+    "target": "Se_Star_Cetus_F_EM_InfiniteDuration",
+    "overrides": {
+      "damageIntervalAmp": "1",
+      "scaleReduction": "-0.5",
+      "requiredLevel": "25",
+      "maxStarLevel": "1",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "price.0": "120"
+    }
+  }
+]

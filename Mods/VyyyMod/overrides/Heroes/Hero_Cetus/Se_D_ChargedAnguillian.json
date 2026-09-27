@@ -1,0 +1,33 @@
+﻿[
+  {
+    "target": "Se_D_ChargedAnguillian",
+    "overrides": {
+      "apAmpPerStack": "0.05",
+      "lightningMaxTargets": "6",
+      "lightningRadius": "5.5",
+      "maxStack": "12",
+      "killOnZeroStack": "false",
+      "autoDecay": "true",
+      "decayTime": "5",
+      "decayAllAtOnce": "true",
+      "decayCount": "1",
+      "resetTimerOnStackChange": "true",
+      "isCleansable": "false",
+      "isBeneficialBuff": "false",
+      "isKilledByCrowdControlImmunity": "false",
+      "scaleDurationByTenacity": "false",
+      "iconOrder": "0",
+      "hideOnWorldHealthBar": "false",
+      "gainedAp.leveling": "0",
+      "gainedAp.scalingMultiplier": "1",
+      "gainedAp.baseValue": "4",
+      "gainedAp.adFactor": "0",
+      "gainedAp.apFactor": "0",
+      "gainedAp.lvlFactor": "4",
+      "gainedAp.armorFactor": "0",
+      "gainedAp.addedHpFactor": "0",
+      "gainedAp.critPercentageFactor": "0",
+      "gainedAp.valueString": "4 4x"
+    }
+  }
+]

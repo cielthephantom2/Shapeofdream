@@ -1,0 +1,38 @@
+﻿[
+  {
+    "target": "Ai_L_MentalCorruption_Projectile",
+    "overrides": {
+      "cooldownRefundRatio": "0",
+      "deviateMag": "3",
+      "use3DVelocity": "false",
+      "_initialSpeed": "1",
+      "_targetSpeed": "35",
+      "_acceleration": "35",
+      "enableRandomCurve": "false",
+      "randomCurveMagnitude": "3",
+      "ensurePositiveY": "true",
+      "endDistance": "8",
+      "startInFrontDistance": "0.5",
+      "endsWithSameHeight": "true",
+      "customEndHeight": "0",
+      "destroyOnComplete": "true",
+      "killOnDissipate": "true",
+      "scaleVerticalOffsetOnLength": "false",
+      "scaleHorizontalOffsetOnLength": "false",
+      "collisionRadius": "0.15",
+      "canCollideMidFlight": "false",
+      "dissipateOnTerrain": "false",
+      "preserveCompleteEffectPositionAndRotation": "false",
+      "initDamageAmount.leveling": "1",
+      "initDamageAmount.scalingMultiplier": "1",
+      "initDamageAmount.baseValue": "0",
+      "initDamageAmount.adFactor": "0",
+      "initDamageAmount.apFactor": "2",
+      "initDamageAmount.lvlFactor": "0",
+      "initDamageAmount.armorFactor": "0",
+      "initDamageAmount.addedHpFactor": "0",
+      "initDamageAmount.critPercentageFactor": "0",
+      "initDamageAmount.valueString": "2ap"
+    }
+  }
+]
